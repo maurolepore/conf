@@ -1,13 +1,8 @@
+^confs\.Rproj$
+^vignettes$
 ^\.travis\.yml$
-^vignettes/ropensci-runconf2018-seattle\.Rmd$
-^vignettes/rstudioconf2019-application\.Rmd$
-^vignettes/chirunconf2019-application\.Rmd$
 ^LICENSE\.md$
 ^pkgdown$
 ^_pkgdown\.yml$
 ^docs$
-^vignettes/chirunconf2019\.Rmd$
-^vignettes/rstudioconf2019\.Rmd$
-^meeting\.applications\.Rproj$
-^meeting\.Rproj$
 ^\.Rproj\.user$

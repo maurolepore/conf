@@ -1,18 +1,18 @@
-Package: conf
+Package: confs
 Title: A Personal Collection of Applications to Conferences and Thoughts
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Mauro",
              family = "Lepore",
-             role = c("aut", "ctr", "cre"),
+             role = c("aut", "cre"),
              email = "maurolepore@gmail.com",
              comment = c(ORCID = "0000-0002-1986-7988")))
 Description: A personal collection of applications to conferences and thoughts
 License: CC0
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/maurolepore/conf
-BugReports: https://github.com/maurolepore/conf/issues
+URL: https://github.com/maurolepore/confs
+BugReports: https://github.com/maurolepore/confs/issues
 RoxygenNote: 6.1.1
 Suggests: 
     rmarkdown,

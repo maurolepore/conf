@@ -1,4 +1,4 @@
-# conf
+# confs
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.org/maurolepore/conf.svg?branch=master)](https://travis-ci.org/maurolepore/conf)
