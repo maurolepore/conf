@@ -1,3 +1,4 @@
+^\.travis\.yml$
 ^vignettes/ropensci-runconf2018-seattle\.Rmd$
 ^vignettes/rstudioconf2019-application\.Rmd$
 ^vignettes/chirunconf2019-application\.Rmd$

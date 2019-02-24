@@ -1,6 +1,7 @@
 # conf
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/maurolepore/conf.svg?branch=master)](https://travis-ci.org/maurolepore/conf)
 <!-- badges: end -->
 
 Writing a strong grant-applications to attend (un)conferences is a lot of work. Although much of that effort can help write future applications, I didn't have a systematic way to collect and share my application materials and experiences. Here I collect my applications to R (un)conferences and thoughts about my experiences.
