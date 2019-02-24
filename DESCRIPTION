@@ -1,16 +1,16 @@
 Package: meeting.applications
-Title: What the Package Does (One Line, Title Case)
+Title: Applications to Meetings Such Us Conferences and Unconferences
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Mauro",
              family = "Lepore",
              role = c("aut", "ctr", "cre"),
-             email = "leporem@si.edu",
-             comment = c(ORCID = "0000-0002-1986-7988")),
-      person(given = "CTFS-ForestGEO",
-             role = "cph",
-             email = "ForestGEO@si.edu"))
-Description: What the package does (one paragraph).
+             email = "maurolepore@gmail.com",
+             comment = c(ORCID = "0000-0002-1986-7988")))
+Description: Applications to meetings e.g. (un)conferences.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/maurolepore/meeting.applications
+BugReports: https://github.com/maurolepore/meeting.applications/issues
+RoxygenNote: 6.1.1
