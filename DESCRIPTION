@@ -1,5 +1,6 @@
 Package: meeting.applications
-Title: Applications to Meetings Such Us Conferences and Unconferences
+Title: A Personal Collection of Applications to Conferences and Thoughts
+
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Mauro",
@@ -7,12 +8,10 @@ Authors@R:
              role = c("aut", "ctr", "cre"),
              email = "maurolepore@gmail.com",
              comment = c(ORCID = "0000-0002-1986-7988")))
-Description: Applications to meetings e.g. (un)conferences.
+Description: A personal collection of applications to conferences and thoughts
 License: CC0
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/maurolepore/meeting.applications
-BugReports: https://github.com/maurolepore/meeting.applications/issues
 RoxygenNote: 6.1.1
 Suggests: 
     rmarkdown,
