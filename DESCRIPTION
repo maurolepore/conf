@@ -1,6 +1,5 @@
-Package: meeting.applications
+Package: conf
 Title: A Personal Collection of Applications to Conferences and Thoughts
-
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Mauro",
@@ -12,6 +11,8 @@ Description: A personal collection of applications to conferences and thoughts
 License: CC0
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/maurolepore/conf
+BugReports: https://github.com/maurolepore/conf/issues
 RoxygenNote: 6.1.1
 Suggests: 
     rmarkdown,

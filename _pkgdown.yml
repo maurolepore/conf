@@ -6,5 +6,5 @@ toc:
 navbar:
   type: default
   left:
-  - text: "Applications"
+  - text: "Applications and experiences"
     href: articles/index.html

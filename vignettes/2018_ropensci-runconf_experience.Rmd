@@ -1,0 +1,36 @@
+---
+title: "2018, rOpenSci's runconf (Seattle): Experience"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+![](https://i.imgur.com/1cjggVf.png)
+
+[rOpenSci](https://ropensci.org/) is a non-profit organization that is making science a better place. It is helping science become more transparent by developing and peer-reviewing open source software for research. Each year rOpenSci invites people from academia, industry, government, and non-profit organizations to meet and collaborate on various projects. This is my personal experience as a guest of such an event -- runconf18.
+
+![](https://i.imgur.com/jbq7Yte.jpg)
+
+The [attendees](http://unconf18.ropensci.org/#participants) included outstanding researchers and engineers from prestigious research institutes worldwide and from industries such as Google and RStudio. These people were a powerful resource that increased my and other’s productivity. Some of these women and men are among the busiest professionals in their fields, and yet they were friendly and available anytime to discuss ideas and help everyone with their projects. For example, [Hadley Wickham](http://hadley.nz/) (Chief Scientist, RStudio) helped me to decide that a piece of software was worthwhile building; [Jenny Bryan](https://twitter.com/JennyBryan) (Software Engineer, RStudio) helped me to identify an unresolved issue in a popular software package; [Jeroen Ooms](https://github.com/jeroen) (Postdoc rOpenSci, UC Berkeley) helped me to configure the latest software for building packages for R under Microsoft Windows; and Noam Ross (Senior Research Scientists, EcoHealth Alliance) mentored the project I was part of.
+
+Microsoft Windows; and [Noam Ross](https://twitter.com/noamross) (Senior Research Scientists, EcoHealth Alliance) mentored the project I was part of.
+
+The event was skillfully managed by [Stefanie Butland](https://twitter.com/stefaniebutland) (Biologist bioinformatician, [@rOpenSci](https://twitter.com/rOpenSci) Community Manager). From her I learned lessons that started long before the meeting and I hope to use her some of her strategies in helping the researchers I work for at [ForestGEO](http://www.forestgeo.si.edu/). For example, before the unconference Stefanie offered new participants to meet her individually via video-conference, to help us better understand what to expect from the event and to answer our questions. And she started the event with a cleverly designed icebreaker, for everyone to introduce themselves and start building trust, confidence and shared meaning. The logistics were also remarkable: The hotel and venue were conveniently located at walking distance from one another; the food was delicious; the space was comfortable; and the schedule gave time for substantial work and for socializing.
+
+In summary, these are some key things I take-away from runconf18:
+
+* I created and strengthened connections with the R community, which makes us more willing to help each other.
+* I collaboratively built a tool to help improve the quality of R packages including my own.
+* I learned strategies to manage tens of people and help them feel comfortable and work productively.
+* I got expert help with my computer’s configuration and my workflow.
+* I learned more about the mission of rOpenSci and how I can contribute to its growth.
+
+![](https://i.imgur.com/nhzELOy.jpg)
+
+In addition to those who I mentioned above, I thank [Karthik Ram](https://twitter.com/_inundata), [Scott Chamberlain](https://scottchamberlain.info/), and [Carl Boettiger](https://www.carlboettiger.info/) for creating rOpenSci and building such a wonderful community around it. I also thank Stuart Davies (director of [ForestGEO](http://www.forestgeo.si.edu/)) for letting me invest time in runconf18; those who nominated applicants and reviewed applications; to all participants (particularly my project team: [Omayma Said](http://onceupondata.com/), [Sam Albers](https://twitter.com/big_bad_sam), [Leonardo Collado-Torres](http://lcolladotor.github.io/) and [Joyce Robbins](http://www.joyce-robbins.com/)); and the supporting institutions.
+
+![](https://i.imgur.com/qSqkPs5.png)

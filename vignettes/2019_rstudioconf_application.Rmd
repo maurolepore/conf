@@ -1,5 +1,5 @@
 ---
-title: "Application to the rstudio::conf() 2019 diversity scholarship"
+title: "2019, rstudio::conf(), diversity scholarship: Application"
 ---
 
 ```{r, include = FALSE}
