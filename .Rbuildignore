@@ -1,3 +1,5 @@
+^vignettes/rstudioconf2019-application\.Rmd$
+^vignettes/chirunconf2019-application\.Rmd$
 ^LICENSE\.md$
 ^pkgdown$
 ^_pkgdown\.yml$

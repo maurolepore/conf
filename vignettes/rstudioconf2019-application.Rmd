@@ -1,5 +1,5 @@
 ---
-title: "rstudioconf2019"
+title: "Application to the rstudio::conf() 2019 diversity scholarship"
 ---
 
 ```{r, include = FALSE}
@@ -8,10 +8,6 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 ```
-
-# rstudio::conf() 2019 diversity scholarships 
-
-(granted)
 
 [Announcement](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
 
@@ -89,3 +85,4 @@ Contributed to multiple, popular R-packages, e.g.:
 * __usethis__ https://www.tidyverse.org/articles/2018/02/usethis-1-3-0/.
 * __tidyr__ https://www.tidyverse.org/articles/2018/02/tidyr-0-8-0/
 * __pkgdown__ https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/
+

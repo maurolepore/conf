@@ -1,5 +1,5 @@
 ---
-title: "chirunconf2019"
+title: "Application to chirunconf2019"
 ---
 
 ```{r, include = FALSE}
@@ -9,16 +9,9 @@ knitr::opts_chunk$set(
 )
 ```
 
-### Info
-
 [Application form](https://docs.google.com/forms/d/1Vc8jHxXlZ_ZDzRNFX5eX58avS66fA_ayX1p3FyfO_e4/viewform?edit_requested=true)
 
-Thank you for your interest in attending the Chicago R Unconference on March 9-10, 2019. Please fill out the following application to be considered to participate. This application closes at midnight CST on February 16, 2019 and participants will be notified the following week.
-
-**Note that we aim to invite a diverse group representing the wide range of background and interest across the R community, particularly based in the Chicago area. As such, many questions (e.g. experience with certain tools or training) have no ?better? or ?worse? answers but rather give us a pulse check on what resources to provide prior to and during the unconf. Please answer all questions as honestly as possible. 
-
-Find more information about the unconference at chirunconf.github.io, and email chirunconf [at] gmail.com with any questions you may have.
-
+Find more information about the unconference at <https://chirunconf.github.io>
 
 ### Social media
 
