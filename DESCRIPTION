@@ -8,11 +8,13 @@ Authors@R:
              email = "maurolepore@gmail.com",
              comment = c(ORCID = "0000-0002-1986-7988")))
 Description: Applications to meetings e.g. (un)conferences.
-License: GPL-3
+License: CC0
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/maurolepore/meeting.applications
 BugReports: https://github.com/maurolepore/meeting.applications/issues
 RoxygenNote: 6.1.1
 Suggests: 
-    rmarkdown
+    rmarkdown,
+    spelling
+Language: en-US
