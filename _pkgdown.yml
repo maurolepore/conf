@@ -1,0 +1,10 @@
+destination: docs
+
+toc:
+  depth: 4
+
+navbar:
+  type: default
+  left:
+  - text: "Applications"
+    href: articles/index.html

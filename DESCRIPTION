@@ -14,3 +14,5 @@ LazyData: true
 URL: https://github.com/maurolepore/meeting.applications
 BugReports: https://github.com/maurolepore/meeting.applications/issues
 RoxygenNote: 6.1.1
+Suggests: 
+    rmarkdown

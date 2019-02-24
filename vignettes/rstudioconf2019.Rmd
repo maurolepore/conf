@@ -1,0 +1,91 @@
+---
+title: "rstudioconf2019"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# rstudio::conf() 2019 diversity scholarships 
+
+(granted)
+
+[Announcement](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
+
+## Links
+
+Provide up to three urls about you (e.g. your twitter, github, blog, resume). You can refer to them in your answers below.
+
+Link 1: https://www.linkedin.com/in/mauro-lepore-5669a820
+
+Link 2: https://twitter.com/mauro_lepore
+
+Link 3: http://bit.ly/rsconf19-public-artefacts
+
+## How will rstudio::conf() help you?
+
+> You will learn the most if you already have some experience with R, so make sure to tell us about the projects you have already worked on, as well as your plans for the future.
+
+rstudio::conf() 2019 will connect me with the R-community I most strongly rely on. I learn from open source books, webinars, and code by many people will likely attend rstudio::conf() 2019. They are helping me transition from ecologist to R-admin, and strongly influence the knowledge I pass to researchers at ForestGEO (http://www.forestgeo.si.edu).
+
+Since early 2017, I have been developing fgeo (https://forestgeo.github.io/fgeo/): A collection of R packages for the analysis of forest dynamics. Because fgeo is inspired in the tidyverse, rstudio::conf() will provide an excellent environment to discuss fgeo and think of ways to improve it.
+
+In the future, RStudio's community should continue to influence my work and the knowledge I transfer to others. Part of my role at ForestGEO is to help researchers improve their R-skills. I am teaching them workflows including RStudio projects and the tidyverse. At rstudio::conf() 2019 I will update my understanding of current best practices.
+
+> Tell us about existing public artefacts like shiny apps, packages, or papers, by including them in the urls above. __(<200 words)__
+
+Artifacts: See link 3.
+
+## How will you use what you learn to help others?
+
+> We want to fund people who will have a multiplier effect in their communities. Your answer will be most compelling if you provide examples of how you are already helping others, for example you have spoken at or organised a meetup, you're writing a blog, answering questions on RStudio community or StackOverflow, or teaching/assisting with a university course.
+
+I will help others by taking what I learn at rstudio::conf() 2019 and sharing it with the communities I reach. In my role of R-admin, I reach researchers from ForestGEO (a network of scientists studying forests in 27 countries). Informally I reach researchers from the Smithsonian Institution, via Carpentries workshops and by-monthly meetups; and a diverse group of R users from R-Ladies DC and from rOpenSci's unconf2018. These are some examples of how I am already helping others:
+
+Meetups
+
+* July-August, 2018: Presentations (built with and about R) at the ForestGEO workshop in Czech Republic (http://bit.ly/event-cr18):
+    * http://bit.ly/cr18-r-intro.
+    * http://bit.ly/cr18-projects.
+    * http://bit.ly/cr18-pipes.
+    * http://bit.ly/cr18-plots.
+
+* August, 2018: Speaker at meetup Research with GitHub, National Museum of Natural History, Smithsonian Institution: http://bit.ly/research-with-github  
+
+* June 27, 2018: Teaching Assistant at meetup of RLadies-DC, led by Kelly O'Briant (https://twitter.com/kellrstats, https://www.meetup.com/rladies-dc/events/251799760/)
+
+* June, 2018: Led meeting, with runconf18 folks, on building R packages (https://twitter.com/mauro_lepore/status/1008136303182008320)
+
+Teaching
+
+* August, 2018: Instructor at The Carpentries (https://kokbent.github.io/2018-09-29-tamu-kingsville/)
+
+* June, 2018: Helper at the Carpentries (NMNH): https://smithsonianworkshops.github.io/2018-06-12-nmnh/
+
+* March, 2018: Helper at the Carpentries (SERC): https://smithsonianworkshops.github.io/2018-03-07-serc/
+
+
+
+Blogs
+
+* January, 2018 - August, 2018: My blog at ForestGEO: https://fgeo.netlify.com/
+
+* July, 2018: Invited post at ropensci.org about work following rOpenSci's runconf18: https://ropensci.org/blog/2018/07/17/pkginspector/
+
+* Activity on community.rstudio: https://community.rstudio.com/u/mauro_lepore/summary
+
+
+
+Contributions:
+
+* Contributed to the book Advanced R by Hadley Wickham (https://adv-r.hadley.nz/introduction.html#intro-ack)
+
+Contributed to multiple, popular R-packages, e.g.:
+
+* __dplyr__ https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/.
+* __usethis__ https://www.tidyverse.org/articles/2018/02/usethis-1-3-0/.
+* __tidyr__ https://www.tidyverse.org/articles/2018/02/tidyr-0-8-0/
+* __pkgdown__ https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/

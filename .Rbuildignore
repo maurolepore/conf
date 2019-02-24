@@ -1,3 +1,8 @@
+^pkgdown$
+^_pkgdown\.yml$
+^docs$
+^vignettes/chirunconf2019\.Rmd$
+^vignettes/rstudioconf2019\.Rmd$
 ^meeting\.applications\.Rproj$
 ^meeting\.Rproj$
 ^\.Rproj\.user$
