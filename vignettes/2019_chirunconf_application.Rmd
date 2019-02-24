@@ -5,13 +5,17 @@ title: "2019, chirunconf: Application"
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
+  echo = FALSE,
+  eval = FALSE,
   comment = "#>"
 )
 ```
 
-[Application form](https://docs.google.com/forms/d/1Vc8jHxXlZ_ZDzRNFX5eX58avS66fA_ayX1p3FyfO_e4/viewform?edit_requested=true)
+* [Application form](https://docs.google.com/forms/d/1Vc8jHxXlZ_ZDzRNFX5eX58avS66fA_ayX1p3FyfO_e4/viewform?edit_requested=true)
 
-Find more information about the unconference at <https://chirunconf.github.io>
+* [Information](https://chirunconf.github.io)
+
+Next are the questions and answers that I believe are most useful to share.
 
 ### Social media
 
@@ -29,39 +33,6 @@ Any other links: <http://bit.ly/mauro-lepore-about>
 
 ### Background
 
-#### What is your current occupation? *
-
-Other: R-package developer for the ForestGEO, at the Smithsonian NMNH
-
-#### What industry or fields are you most interested in applying R to? *
-
-Natural-sciences research
-
-#### Have you attended an unconference before (e.g. an rOpenSci unconf)? *
-
-Yes rOpenSci's runconf 2018 (<http://unconf18.ropensci.org/#participants>)
-
-#### Please check as many boxes as are relevant to your past R usage: *
-
-* I have used R for academic research (including theses)
-* I have used R for personal projects
-* I have used R for work in government
-* I have used R for work in a nonprofit
-
-#### Please check the box to indicate experience with any of the following: *
-
-* Used git individually
-* Used git to collaborate with others
-* Used a web-based version control site (e.g. Github, Gitlab, BitBucket) individually
-* Used a web-based version control site (e.g. Github, Gitlab, BitBucket) to collaborate with others
-* Made an open-source contribution to an existing project on GitHub
-* Written an R script
-* Made an R project
-* Developed an R package for personal use
-* Release an R package publicly
-* Written unit tests for an R package
-* Taught or helped others to do any or all of the above
-
 #### Briefly describe any personal or community-related R accomplishment that you are most proud of. If possible, please include any relevant links. *
 
 What I am most proud of is that in the last couple of years I have participated in multiple and diverse communities that support open software, reproducible research, and diversity, including rOpensci, The Carpentries, LatinR, and R-Ladies (<http://bit.ly/mauro-lepore-about>). 
@@ -73,7 +44,6 @@ What I am most proud of is that in the last couple of years I have participated 
 > Describe what you see as your long-term goals, and how will attending this unconf help you reach them.
 
 My long term goal is to help to improve some aspect of our social and natural environment, by working in data science with people whose work and behavior I admire. Attending this unconf will help me to reach this goal by connecting me with like-minded people, who I can support and learn from. Those selected to attend this unconf will likely be the kind of people I would love to work with. 
-
 #### What do you specifically hope to learn or accomplish at this unconf (e.g. develop a package, submit your first pull request)? *
 
 I hope to learn alternative ways of solving data science problems. My own ideas can never be as many or good as those developed by a team of people with diverse opinions and experiences.
@@ -95,6 +65,8 @@ To me, a successful unconf would look like this:
 * I contribute to a meaningful project (not limited to the projects listed above).
 * I connect with new people and strengthen the link with those who I met before.
 
+
+```{r hide, eval=FALSE, echo=FALSE}
 #### How can you help us magnify the impact of this unconf by sharing what you learned? 
 
 I could connect you with Kristen Bullard, the Science Researcher Services Librarian ( <https://library.si.edu/research>). She organizes series of seminars and she may want to invite you to talk about the unconf and spread the idea. These seminars are promoted throughout the Smithsonian. You could deliver the talk from a remote location. Kristen would advertise the talk, provide the video-conference platform, and moderate the meeting. I believe that other community-driven initiatives such as rOpenSci and RLadies-DC have already organized similar talks.
@@ -102,26 +74,9 @@ I could connect you with Kristen Bullard, the Science Researcher Services Librar
 I could also introduce you to Rebecca Dirkow, the leader of the Smithsonian Institution Data Science Lab (<https://datascience.si.edu/people/dr-rebecca-dikow>). Rebecca's team runs Data Carpentry workshops, and I hope you will inspire them to run a Smithsonian runconference.
 
 Also I will be pleased to share my experience with the researchers I work for, an international network of 65+ research groups (ForestGEO <https://forestgeo.si.edu/>). Our regular annual meeting -- this time in China -- is always an excellent opportunity to spread what I learn.
+```
 
 #### If you have a blog, frequently attend or speak at meet-ups, have interest or experience teaching others, etc. please share that information here.
 
 <http://bit.ly/mauro-lepore-about>
-
-#### Select which type of project(s) you would be most interested to work on:
-
-Code contribution to existing open-source project
-
-# Conditions
-
-##### We are committed to providing a welcoming community for all participants. One priority is to foster diversity in open source contribution. Thus, we strongly encourage applications from women, people of colour, LGBTQI, differently-abled individuals, and any other underrepresented minorities. If you identify with any of these groups and wish to share that information with us, please use the answers below. *
-
-I identify myself and a member of the underrepresented Latin community.
-
-##### Do you need travel support to attend this unconf? *
-
-Yes, I'll need travel and lodging
-
-##### If you require travel support, please provide a line-item summary of your costs.
-
-~300 in total should cover flights and accommodation.
 
