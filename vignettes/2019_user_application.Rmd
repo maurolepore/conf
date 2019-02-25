@@ -1,0 +1,132 @@
+---
+title: "2019_user_application"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+[useR!2019 Diversity scholarship Application form](https://lime.nathalievilla.org/index.php/395586?lang=en)
+
+### Personal details
+
+> Main personal webpage, e.g. academic homepage, blog, LinkedIn page, GitHub page
+
+http://bit.ly/mauro-lepore-about
+
+### Elligibility
+
+> Are there details about your personal background that are relevant to this diversity scholarship that you want us to know?
+
+As an Argentiniean, I belong to the under represented community of Latin-American R users/developers. (RStudio indentified South America as one of the regions that have had relatively few R events in the recent poast.)
+
+> Why would you not be able to attend the conference if not selected?
+
+If not selected I wouldn't be able to attend the conference. Although I work in a research organization as an R developer, my work wouldn't found me. And my salary isn't high enough to found myself. I live in one of the ten most-expensive cities in USA, Washington DC (https://www.expatistan.com/cost-of-living/index/north-america). All I'm abe to invest, are the vacation days I would need to attend.
+
+### Founding required
+
+> Please estimate the costs for you to attend useR!, in Euro. Bus/train/air fare and lodging will be covered for all scholarship recipients, we hope to cover childcare or other additional expenses as we’re able. You can base estimates on whichever lodging suits your logistical requirements (hotel, apartment, airbnb, ...), subject to a modest budget. It is assumed you will travel by economy/standard class transport and use the conference-provided childcare if applicable.
+
+Estimated cost in Euros:
+
+* Bus/train/air fare USD1500
+* Lodging USD250
+* Childcare (enter zero if not required) 0
+* Other (enter zero if not required) 0
+* Total USD1750
+
+### Background relevant to useR!
+
+> Tell us a bit about yourself. What are your areas of competence or interest? 
+
+FIXME
+
+My long term goal is to help to improve some aspect of our social and natural environment, by working in data science with people whose work and behavior I admire. Attending this unconf will help me to reach this goal by connecting me with like-minded people, who I can support and learn from. Those selected to attend this unconf will likely be the kind of people I would love to work with. 
+
+> Provide links to any of your projects that
+
+Twitter Handle: \@mauro_lepore (<https://twitter.com/mauro_lepore>)
+GitHub Username: maurolepore (<https://github.com/maurolepore>)
+Blog URL: <http://bit.ly/mauro-lepore-blog-fgeo>
+LinkedIn URL: <http://bit.ly/mauro-lepore-linkedin>
+Any other links: <http://bit.ly/mauro-lepore-about>
+
+Selected pulbic artefact
+* GitHub organization (https://github.com/forestgeo)
+* R-packages (https://forestgeo.github.io/fgeo)
+* Blog (https://fgeo.netlify.com/)
+* App (http://bit.ly/map-tag)
+* Tutorials (http://bit.ly/fgeo-turorials)
+* Videos (http://bit.ly/r-videos)
+
+### Reasons for applying.
+
+Tell us why you are interested in attending the useR! 2019 conference.
+
+>  What do you hope to get out of attending?
+
+FIXME
+
+rstudio::conf() 2019 will connect me with the R-community I most strongly rely on. I learn from open source books, webinars, and code by many people will likely attend rstudio::conf() 2019. They are helping me transition from ecologist to R-admin, and strongly influence the knowledge I pass to researchers at ForestGEO (http://www.forestgeo.si.edu).
+
+Since early 2017, I have been developing fgeo (https://forestgeo.github.io/fgeo/): A collection of R packages for the analysis of forest dynamics. Because fgeo is inspired in the tidyverse, rstudio::conf() will provide an excellent environment to discuss fgeo and think of ways to improve it.
+
+In the future, RStudio's community should continue to influence my work and the knowledge I transfer to others. Part of my role at ForestGEO is to help researchers improve their R-skills. I am teaching them workflows including RStudio projects and the tidyverse. At rstudio::conf() 2019 I will update my understanding of current best practices.
+
+### Potential contribution.
+
+How will you use your participation to benefit other members of the R community and/or your local community after the conference? (Or even during the conference?)
+
+FIXME
+
+I will help others by taking what I learn at rstudio::conf() 2019 and sharing it with the communities I reach. In my role of R-admin, I reach researchers from ForestGEO (a network of scientists studying forests in 27 countries). Informally I reach researchers from the Smithsonian Institution, via Carpentries workshops and by-monthly meetups; and a diverse group of R users from R-Ladies DC and from rOpenSci's unconf2018. These are some examples of how I am already helping others:
+
+Meetups
+
+* July-August, 2018: Presentations (built with and about R) at the ForestGEO workshop in Czech Republic (http://bit.ly/event-cr18):
+    * http://bit.ly/cr18-r-intro.
+    * http://bit.ly/cr18-projects.
+    * http://bit.ly/cr18-pipes.
+    * http://bit.ly/cr18-plots.
+
+* August, 2018: Speaker at meetup Research with GitHub, National Museum of Natural History, Smithsonian Institution: http://bit.ly/research-with-github  
+
+* June 27, 2018: Teaching Assistant at meetup of RLadies-DC, led by Kelly O'Briant (https://twitter.com/kellrstats, https://www.meetup.com/rladies-dc/events/251799760/)
+
+* June, 2018: Led meeting, with runconf18 folks, on building R packages (https://twitter.com/mauro_lepore/status/1008136303182008320)
+
+Teaching
+
+* August, 2018: Instructor at The Carpentries (https://kokbent.github.io/2018-09-29-tamu-kingsville/)
+
+* June, 2018: Helper at the Carpentries (NMNH): https://smithsonianworkshops.github.io/2018-06-12-nmnh/
+
+* March, 2018: Helper at the Carpentries (SERC): https://smithsonianworkshops.github.io/2018-03-07-serc/
+
+
+
+Blogs
+
+* January, 2018 - August, 2018: My blog at ForestGEO: https://fgeo.netlify.com/
+
+* July, 2018: Invited post at ropensci.org about work following rOpenSci's runconf18: https://ropensci.org/blog/2018/07/17/pkginspector/
+
+* Activity on community.rstudio: https://community.rstudio.com/u/mauro_lepore/summary
+
+
+
+Contributions:
+
+* Contributed to the book Advanced R by Hadley Wickham (https://adv-r.hadley.nz/introduction.html#intro-ack)
+
+Contributed to multiple, popular R-packages, e.g.:
+
+* __dplyr__ https://blog.rstudio.com/2017/06/13/dplyr-0-7-0/.
+* __usethis__ https://www.tidyverse.org/articles/2018/02/usethis-1-3-0/.
+* __tidyr__ https://www.tidyverse.org/articles/2018/02/tidyr-0-8-0/
+* __pkgdown__ https://www.tidyverse.org/articles/2018/05/pkgdown-1-0-0/
+

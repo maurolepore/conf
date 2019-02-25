@@ -44,6 +44,7 @@ What I am most proud of is that in the last couple of years I have participated 
 > Describe what you see as your long-term goals, and how will attending this unconf help you reach them.
 
 My long term goal is to help to improve some aspect of our social and natural environment, by working in data science with people whose work and behavior I admire. Attending this unconf will help me to reach this goal by connecting me with like-minded people, who I can support and learn from. Those selected to attend this unconf will likely be the kind of people I would love to work with. 
+
 #### What do you specifically hope to learn or accomplish at this unconf (e.g. develop a package, submit your first pull request)? *
 
 I hope to learn alternative ways of solving data science problems. My own ideas can never be as many or good as those developed by a team of people with diverse opinions and experiences.
