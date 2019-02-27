@@ -21,11 +21,11 @@ http://bit.ly/mauro-lepore-about
 
 > Are there details about your personal background that are relevant to this diversity scholarship that you want us to know?
 
-As an Argentiniean, I belong to the under represented community of Latin-American R users/developers. (RStudio indentified South America as one of the regions that have had relatively few R events in the recent poast.)
+As an Argentinean, I belong to the underrepresented community of Latin-American R users. 
 
 > Why would you not be able to attend the conference if not selected?
 
-If not selected I wouldn't be able to attend the conference. Although I work in a research organization as an R developer, my work wouldn't found me. And my salary isn't high enough to found myself. I live in one of the ten most-expensive cities in USA, Washington DC (https://www.expatistan.com/cost-of-living/index/north-america). All I'm abe to invest, are the vacation days I would need to attend.
+If not selected I wouldn't be able to attend the conference. Although I work in a research organization as an R developer, my work wouldn't found me; and I can't afford to found myself. Unfortunately, my salary is about 30% lower than the median for PhD holder (my education) in USA, and worse, I live in one of the ten most-expensive cities in USA, Washington DC (https://www.expatistan.com/cost-of-living/index/north-america). All I'm abe to invest, are the vacation days I would need to attend.
 
 ### Founding required
 
@@ -33,19 +33,19 @@ If not selected I wouldn't be able to attend the conference. Although I work in 
 
 Estimated cost in Euros:
 
-* Bus/train/air fare USD1500
-* Lodging USD250
+* Bus/train/air fare 1300 Euros
+* Lodging 200 Euros
 * Childcare (enter zero if not required) 0
 * Other (enter zero if not required) 0
-* Total USD1750
+* Total 1500 Euros
 
 ### Background relevant to useR!
 
 > Tell us a bit about yourself. What are your areas of competence or interest? 
 
-FIXME
+My area of competence and interest lays at the intersection between research and software development. I work as an R-package developer for the Smithsonian's Forest Global Earth Observatory network (<https://forestgeo.si.edu/>). I build R packages and related software infrastructure to help ecologists to analyse the diversity and dynamics of forests around the world.
 
-My long term goal is to help to improve some aspect of our social and natural environment, by working in data science with people whose work and behavior I admire. Attending this unconf will help me to reach this goal by connecting me with like-minded people, who I can support and learn from. Those selected to attend this unconf will likely be the kind of people I would love to work with. 
+I first joined the Smithsonian in 2016 and researched how coral reefs in Bocas del Toro, Panama, have changed over the past 7,000 years in response to human impacts. Before that I did a PhD in ecology (2015) at the University of Queensland, Australia, and a bachelors in marine biology (2008) at the University of Buenos Aires, Argentina.
 
 > Provide links to any of your projects that
 
@@ -55,7 +55,7 @@ Blog URL: <http://bit.ly/mauro-lepore-blog-fgeo>
 LinkedIn URL: <http://bit.ly/mauro-lepore-linkedin>
 Any other links: <http://bit.ly/mauro-lepore-about>
 
-Selected pulbic artefact
+Selected public artifact
 * GitHub organization (https://github.com/forestgeo)
 * R-packages (https://forestgeo.github.io/fgeo)
 * Blog (https://fgeo.netlify.com/)
@@ -69,9 +69,23 @@ Tell us why you are interested in attending the useR! 2019 conference.
 
 >  What do you hope to get out of attending?
 
+By attending to useR I hope to get a better understanding of how to advance my career in orded to best support the research and R communities I belong to.
+
+FIXME 
+I will attend useR seeking to answer these questions: 
+
+* Who is working in similar problems?
+* What gaps remain?
+* What is the most important thing I should lean that will maximize my positive impact on the work I do?
+* Where
+* When? xxx
+* Why? xxx
+
+will connect me with people with similar interests and problems. Talking to them will help me to better understand how to move my career forward in orded to best support the research and R communities I belong to.
+
 FIXME
 
-rstudio::conf() 2019 will connect me with the R-community I most strongly rely on. I learn from open source books, webinars, and code by many people will likely attend rstudio::conf() 2019. They are helping me transition from ecologist to R-admin, and strongly influence the knowledge I pass to researchers at ForestGEO (http://www.forestgeo.si.edu).
+UserR 2019 will connect me with the R-community I most strongly support and rely on. I learn from open source books, webinars, and code by many people will likely attend rstudio::conf() 2019. They are helping me transition from ecologist to R-admin, and strongly influence the knowledge I pass to researchers at ForestGEO (http://www.forestgeo.si.edu).
 
 Since early 2017, I have been developing fgeo (https://forestgeo.github.io/fgeo/): A collection of R packages for the analysis of forest dynamics. Because fgeo is inspired in the tidyverse, rstudio::conf() will provide an excellent environment to discuss fgeo and think of ways to improve it.
 
