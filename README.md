@@ -8,7 +8,6 @@ Writing a strong grant-applications to attend (un)conferences is a lot of work. 
 
 ---
 
-#### Curious to know if this is a blog, a website, or an R package?
+#### Is this a blog, a website, or an R package?
 
-This product is meant to be read. If you run `install_github("maurolepore/confs")` you achieve nothing useful. Is this a blog, a website, or an R package? It is all three. I structured this project as an R package just to benefit from package-development tools such as `usethis::browse_github()`, `pkgdown::use_article()`, and `spelling::spell_check_package()`. 
-
+As a website and blog, this product is meant to be read. Also it is an R package, but just to benefit from package-development tools such as `usethis::browse_github()`, `pkgdown::use_article()`, and `spelling::spell_check_package()`. If you run `install_github("maurolepore/confs")` you achieve nothing useful. 
