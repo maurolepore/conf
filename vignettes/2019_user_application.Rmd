@@ -25,7 +25,7 @@ As an Argentinean, I belong to the underrepresented community of Latin-American 
 
 > Why would you not be able to attend the conference if not selected?
 
-If not selected I wouldn't be able to attend the conference. Although I work in a research organization as an R developer, my work wouldn't found me; and I can't afford to found myself. Unfortunately, my salary is about 30% lower than the median for PhD holder (my education) in USA, and worse, I live in one of the ten most-expensive cities in USA, Washington DC (https://www.expatistan.com/cost-of-living/index/north-america). All I'm abe to invest, are the vacation days I would need to attend.
+If not selected I wouldn't be able to attend the conference. My job has no funds for my professional development, and I can't afford to found myself: My salary is 30% lower than the median for PhD holder (my education) in USA, and I live in one of the ten most-expensive cities in USA, Washington DC (https://www.expatistan.com/cost-of-living/index/north-america). All I'm abe to invest, are the vacation days I would need to attend.
 
 ### Founding required
 
@@ -41,35 +41,28 @@ Estimated cost in Euros:
 
 ### Background relevant to useR!
 
-> Tell us a bit about yourself. What are your areas of competence or interest? 
+> Tell us a bit about yourself ...
 
-My area of competence and interest lays at the intersection between research and software development. I work as an R-package developer for the Smithsonian's Forest Global Earth Observatory network (<https://forestgeo.si.edu/>). I build R packages and related software infrastructure to help ecologists to analyse the diversity and dynamics of forests around the world.
+> ... What are your areas of competence or interest? 
 
-I first joined the Smithsonian in 2016 and researched how coral reefs in Bocas del Toro, Panama, have changed over the past 7,000 years in response to human impacts. Before that I did a PhD in ecology (2015) at the University of Queensland, Australia, and a bachelors in marine biology (2008) at the University of Buenos Aires, Argentina.
+My area of competence and interest lays at the intersection between research and software development. I work as an R-package developer for the Forest Global Earth Observatory network (<https://forestgeo.si.edu/>). I build R packages and related software infrastructure to help ecologists to analyse the diversity and dynamics of forests around the world. I am based at the National Museum of Natural History, Smithsonian Institution, Washington DC (USA).
 
-> Provide links to any of your projects that
+I first joined the Smithsonian in 2016 and researched how coral reefs from Panama have changed over the past 7,000 years in response to human impacts. Before that I did a PhD in ecology (2015) at the University of Queensland, Australia, and a bachelors in marine biology (2008) at the University of Buenos Aires, Argentina.
 
-Twitter Handle: \@mauro_lepore (<https://twitter.com/mauro_lepore>)
-GitHub Username: maurolepore (<https://github.com/maurolepore>)
-Blog URL: <http://bit.ly/mauro-lepore-blog-fgeo>
-LinkedIn URL: <http://bit.ly/mauro-lepore-linkedin>
-Any other links: <http://bit.ly/mauro-lepore-about>
+> ... Provide links to any of your projects that we should know about/other evidence of your involvement in the R community.
 
-Selected public artifact
-* GitHub organization (https://github.com/forestgeo)
-* R-packages (https://forestgeo.github.io/fgeo)
-* Blog (https://fgeo.netlify.com/)
-* App (http://bit.ly/map-tag)
-* Tutorials (http://bit.ly/fgeo-turorials)
-* Videos (http://bit.ly/r-videos)
+These links show some of my contributions to the R community (more at <http://bit.ly/mauro-lepore-about>):
+
+* R-package on CRAN: <https://maurolepore.github.io/tor/>
+* A meta-package inspired by the tidyverse: <https://forestgeo.github.io/fgeo>
+* R video-tutorials: <http://bit.ly/r-videos>
+* Blog: <http://bit.ly/mauro-lepore-blog-fgeo>
 
 ### Reasons for applying
 
-Tell us why you are interested in attending the useR! 2019 conference.
+> Tell us why you are interested in attending the useR! 2019 conference. What do you hope to get out of attending?
 
->  What do you hope to get out of attending?
-
-UseR would help me to better understand how move my career forwards. My goal is to reach a sustainable professional-growth-rate, and maximize the positive impact of my work on the research and R communities I belong to. More concretely, useR should help me to answer these and similar questions:
+By attending the useR 2019 conference I hope to better understand how to advance my career in order to maximize the positive impact of my work on the research and R communities I support. The useR conference would help me to answer these questions:
 
 * Who is working in similar problems that I could collaborate with so that we move towards our shared goals better and faster?
 
@@ -77,30 +70,27 @@ UseR would help me to better understand how move my career forwards. My goal is 
 
 * How could I redirect my effort in order to most quickly remove whatever barriers are stopping me and others from reaching our goals?
 
-* Why some of my contributions have not had the impact I had expected?
-
 * Where can I find mentors willing to guide my next professional steps?
-
-* When are they going to serve delicious French cheese or pastries? :-)
 
 ### Potential contribution.
 
-> How will you use your participation to benefit other members of the R community
+> How will you use your participation to benefit other members of the R community ...
 
-I hope my participation in useR helps others even before the conference -- that is, if "participation" includes this very application. To help other members of the R community I have published this and other scholarship applications at <https://maurolepore.github.io/confs/>. There, I also point readers to the outcome of my applications and share my experiences at the events.
+If "participation" in useR includes this application, I hope to already be helping other members of the R community. This and other scholarship applications are now published at <https://maurolepore.github.io/confs/>. I hope this will motivate and help others with their own applications.
 
-During useR I hope to help other participants by asking them questions about what their interests and challenges are, and by discussing if and how I could be support them. I would attend useR with a very curious mindset as I am trying to identify my next career challenge and the direction of my next professional development step.
+During useR I hope to help others by asking them about their interests and challenges, and then discussing if and how we could benefit from working together. I would attend useR with a very curious mindset. I aim for continuous improvement so I am open to new career challenges.
 
 > ... and/or your local community after the conference? (Or even during the conference?)
 
-After the conference I hope to benefit other members of the R community by sharing what I learn at useR 2019. Often I can help my "closest" ("local + remote") R community by pointing them to the resources they need to solve their problem. And I learn about those resources largely by attending to R meetings similar to useR (e.g. rstudio::conf() 2019 and rOpenSci's runconf 2018; details at <https://maurolepore.github.io/>).
+After the conference I hope to benefit other members of the R community by sharing what I will have learned. Often I have helped my "closest" ("local + remote") R community by pointing them to the resources they need to solve their problem; and the way I learn about those resources is, to a large extent, by attending meetings such as useR.
 
 Concretely, my "closest" R community is represented by these organizations:
 
-* ForestGEO: "A global network of scientists and forest research sites dedicated to advancing long-term study of the world's forests" (<https://forestgeo.si.edu/>). Based at the Smithsonian Institution (Washington DC, USA), I work for ForestGEO as an R developer and advocate.
+* ForestGEO: "[We are] a global network of scientists and forest research sites dedicated to advancing long-term study of the world's forests" (<https://forestgeo.si.edu/>). I work for ForestGEO as an R developer and advocate.
 
-* The Carpentries: "We teach foundational coding and data science skills to researchers worldwide" (<https://carpentries.org/>). I teach and help teach their workshops.
+* rOpenSci: "We build software with a community of users and developers, and educate scientists about transparent research practices" (<https://ropensci.org/>). I ask and answer questions on rOpenSci's slack workspace.
 
-* rOpenSci: "We build software with a community of users and developers, and educate scientists about transparent research practices" (<https://ropensci.org/>). I ask and answer questions in their online work-space on slack.
+* R-Ladies: "[We are] an organization to promote gender diversity in the R community" (<https://rladies.org/>). I often attend R-Ladies meetups -- particularly in Washington DC -- and strongly support diversity in general.
 
-* R-Ladies: "An organization to promote gender diversity in the R community" (<https://rladies.org/>). I often attend R-Ladies meetups, particularly in Washington DC.
+* The Carpentries: "We teach foundational coding and data science skills to researchers worldwide" (<https://carpentries.org/>). I teach and help teach Carpentries' workshops.
+
