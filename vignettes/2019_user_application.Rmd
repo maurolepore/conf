@@ -44,7 +44,7 @@ In only a few days, useR would expose me to a number and diversity of people and
 
 * I will help people solve their problems more efficiently by sharing what learn with my "closest" ("local + remote") R community including:
 
-* ForestGEO <https://forestgeo.si.edu/>
-* rOpenSci <https://ropensci.org/>
-* R-Ladies <https://ropensci.org/>
-* The Carpentries <https://carpentries.org/>
+    * ForestGEO <https://forestgeo.si.edu/>
+    * rOpenSci <https://ropensci.org/>
+    * R-Ladies <https://ropensci.org/>
+    * The Carpentries <https://carpentries.org/>
