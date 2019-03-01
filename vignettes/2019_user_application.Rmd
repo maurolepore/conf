@@ -63,7 +63,7 @@ Selected public artifact
 * Tutorials (http://bit.ly/fgeo-turorials)
 * Videos (http://bit.ly/r-videos)
 
-### Reasons for applying.
+### Reasons for applying
 
 Tell us why you are interested in attending the useR! 2019 conference.
 
@@ -85,35 +85,22 @@ UseR would help me to better understand how move my career forwards. My goal is 
 
 ### Potential contribution.
 
-> How will you use your participation to benefit other members of the R community and/or your local community after the conference? (Or even during the conference?)
-
-
 > How will you use your participation to benefit other members of the R community
 
-My potential participation in useR is already giving the R community the opportunity to learn from my experience. 
+I hope my participation in useR helps others even before the conference -- that is, if "participation" includes this very application. To help other members of the R community I have published this and other scholarship applications at <https://maurolepore.github.io/confs/>. There, I also point readers to the outcome of my applications and share my experiences at the events.
 
-
-This application to useR made me realize that other members of the R community may benefit from reading my scholarship applications, the outcomes of those applications, and my experience at the event. For that I created this website: <https://maurolepore.github.io/confs/>.
-
-
-
-https://maurolepore.github.io/
-
-Most recent grants and sponsors
-
-
-
-useR already 
+During useR I hope to help other participants by asking them questions about what their interests and challenges are, and by discussing if and how I could be support them. I would attend useR with a very curious mindset as I am trying to identify my next career challenge and the direction of my next professional development step.
 
 > ... and/or your local community after the conference? (Or even during the conference?)
 
+After the conference I hope to benefit other members of the R community by sharing what I learn at useR 2019. Often I can help my "closest" ("local + remote") R community by pointing them to the resources they need to solve their problem. And I learn about those resources largely by attending to R meetings similar to useR (e.g. rstudio::conf() 2019 and rOpenSci's runconf 2018; details at <https://maurolepore.github.io/>).
 
+Concretely, my "closest" R community is represented by these organizations:
 
+* ForestGEO: "A global network of scientists and forest research sites dedicated to advancing long-term study of the world's forests" (<https://forestgeo.si.edu/>). Based at the Smithsonian Institution (Washington DC, USA), I work for ForestGEO as an R developer and advocate.
 
-I will help others by sharing what I learn at useR 2019 with the communities I reach. As an R developer and advocate working at the Smithsonian Institution, I reach a network of scientists researching forests at 65 sites in 27 countries (ForestGEO). I also reach a number of other R communities, as an instructor for the Carpentries, a member of rOpenSci's slack workspace, an allie of R-Ladies, (particularly in DC and Buenos Aires).
+* The Carpentries: "We teach foundational coding and data science skills to researchers worldwide" (<https://carpentries.org/>). I teach and help teach their workshops.
 
-Here is a list of my most recent contributions including meetups, teaching, blogs, and open source software: <https://maurolepore.github.io/>
+* rOpenSci: "We build software with a community of users and developers, and educate scientists about transparent research practices" (<https://ropensci.org/>). I ask and answer questions in their online work-space on slack.
 
-FIXME: I'm also sharing my applications to and experience at R events: https://maurolepore.github.io/confs/
-
-When it comes to R, I am the go-to person and I redirect people to useful resources.
+* R-Ladies: "An organization to promote gender diversity in the R community" (<https://rladies.org/>). I often attend R-Ladies meetups, particularly in Washington DC.
