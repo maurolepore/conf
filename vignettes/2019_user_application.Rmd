@@ -1,13 +1,6 @@
 ---
-title: "2019_user_application"
+title: "2019, useR: Application"
 ---
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
 
 [useR!2019 Diversity scholarship Application form](https://lime.nathalievilla.org/index.php/395586?lang=en)
 
@@ -15,82 +8,43 @@ knitr::opts_chunk$set(
 
 > Main personal webpage, e.g. academic homepage, blog, LinkedIn page, GitHub page
 
-http://bit.ly/mauro-lepore-about
+<http://bit.ly/mauro-lepore-about>
 
-### Elligibility
+### Eligibility
 
-> Are there details about your personal background that are relevant to this diversity scholarship that you want us to know?
+> Are there details about your personal background that are relevant to this diversity scholarship that you want us to know? Why would you not be able to attend the conference if not selected?
 
-As an Argentinean, I belong to the underrepresented community of Latin-American R users. 
-
-> Why would you not be able to attend the conference if not selected?
-
-If not selected I wouldn't be able to attend the conference. My job has no funds for my professional development, and I can't afford to found myself: My salary is 30% lower than the median for PhD holder (my education) in USA, and I live in one of the ten most-expensive cities in USA, Washington DC (https://www.expatistan.com/cost-of-living/index/north-america). All I'm abe to invest, are the vacation days I would need to attend.
-
-### Founding required
-
-> Please estimate the costs for you to attend useR!, in Euro. Bus/train/air fare and lodging will be covered for all scholarship recipients, we hope to cover childcare or other additional expenses as we’re able. You can base estimates on whichever lodging suits your logistical requirements (hotel, apartment, airbnb, ...), subject to a modest budget. It is assumed you will travel by economy/standard class transport and use the conference-provided childcare if applicable.
-
-Estimated cost in Euros:
-
-* Bus/train/air fare 1300 Euros
-* Lodging 200 Euros
-* Childcare (enter zero if not required) 0
-* Other (enter zero if not required) 0
-* Total 1500 Euros
+I belong to the underrepresented community of Latin-American R users. My job can't found me, and I'm unable to found myself (I earn a relatively low salary and live in an extremely expensive city).
 
 ### Background relevant to useR!
 
-> Tell us a bit about yourself ...
+> Tell us a bit about yourself What are your areas of competence or interest? Provide links to any of your projects that we should know about/other evidence of your involvement in the R community.
 
-> ... What are your areas of competence or interest? 
+My area of competence and interest lays at the intersection between research and software development. My job is to build R packages and software-infrastructure to help ecologists to analyse the diversity and dynamics of forests around the world.
 
-My area of competence and interest lays at the intersection between research and software development. I work as an R-package developer for the Forest Global Earth Observatory network (<https://forestgeo.si.edu/>). I build R packages and related software infrastructure to help ecologists to analyse the diversity and dynamics of forests around the world. I am based at the National Museum of Natural History, Smithsonian Institution, Washington DC (USA).
-
-I first joined the Smithsonian in 2016 and researched how coral reefs from Panama have changed over the past 7,000 years in response to human impacts. Before that I did a PhD in ecology (2015) at the University of Queensland, Australia, and a bachelors in marine biology (2008) at the University of Buenos Aires, Argentina.
-
-> ... Provide links to any of your projects that we should know about/other evidence of your involvement in the R community.
-
-These links show some of my contributions to the R community (more at <http://bit.ly/mauro-lepore-about>):
-
-* R-package on CRAN: <https://maurolepore.github.io/tor/>
-* A meta-package inspired by the tidyverse: <https://forestgeo.github.io/fgeo>
-* R video-tutorials: <http://bit.ly/r-videos>
+Featured links (see more at <http://bit.ly/mauro-lepore-about>):
+* CRAN package: <https://maurolepore.github.io/tor/>
+* tidyverse-like meta-package: <https://forestgeo.github.io/fgeo>
+* Video-tutorials: <http://bit.ly/r-videos>
 * Blog: <http://bit.ly/mauro-lepore-blog-fgeo>
 
 ### Reasons for applying
 
 > Tell us why you are interested in attending the useR! 2019 conference. What do you hope to get out of attending?
 
-By attending the useR 2019 conference I hope to better understand how to advance my career in order to maximize the positive impact of my work on the research and R communities I support. The useR conference would help me to answer these questions:
-
-* Who is working in similar problems that I could collaborate with so that we move towards our shared goals better and faster?
-
-* What useful tools are clearly missing that I could build or contribute to (e.g. tutorials, packages)?
-
-* How could I redirect my effort in order to most quickly remove whatever barriers are stopping me and others from reaching our goals?
-
-* Where can I find mentors willing to guide my next professional steps?
+In only a few days, useR would expose me to a number and diversity of people and ideas greater than ever before. That would enrich my network, improve my ideas, and amplify the positive impact of my work on the research and R communities I support.
 
 ### Potential contribution.
 
-> How will you use your participation to benefit other members of the R community ...
+> How will you use your participation to benefit other members of the R community and/or your local community after the conference? (Or even during the conference?)
 
-If "participation" in useR includes this application, I hope to already be helping other members of the R community. This and other scholarship applications are now published at <https://maurolepore.github.io/confs/>. I hope this will motivate and help others with their own applications.
+* I hope to motivate and help others by sharing this and other scholarship applications (see <https://maurolepore.github.io/confs/>).
 
-During useR I hope to help others by asking them about their interests and challenges, and then discussing if and how we could benefit from working together. I would attend useR with a very curious mindset. I aim for continuous improvement so I am open to new career challenges.
+* I hope to identify and collaborate with people with similar interests and challenges.
 
-> ... and/or your local community after the conference? (Or even during the conference?)
+* I will help people solve their problems more efficiently by sharing what learn with my "closest" ("local + remote") R community including:
 
-After the conference I hope to benefit other members of the R community by sharing what I will have learned. Often I have helped my "closest" ("local + remote") R community by pointing them to the resources they need to solve their problem; and the way I learn about those resources is, to a large extent, by attending meetings such as useR.
-
-Concretely, my "closest" R community is represented by these organizations:
-
-* ForestGEO: "[We are] a global network of scientists and forest research sites dedicated to advancing long-term study of the world's forests" (<https://forestgeo.si.edu/>). I work for ForestGEO as an R developer and advocate.
-
-* rOpenSci: "We build software with a community of users and developers, and educate scientists about transparent research practices" (<https://ropensci.org/>). I ask and answer questions on rOpenSci's slack workspace.
-
-* R-Ladies: "[We are] an organization to promote gender diversity in the R community" (<https://rladies.org/>). I often attend R-Ladies meetups -- particularly in Washington DC -- and strongly support diversity in general.
-
-* The Carpentries: "We teach foundational coding and data science skills to researchers worldwide" (<https://carpentries.org/>). I teach and help teach Carpentries' workshops.
-
+* ForestGEO <https://forestgeo.si.edu/>
+* rOpenSci <https://ropensci.org/>
+* R-Ladies <https://ropensci.org/>
+* The Carpentries <https://carpentries.org/>
