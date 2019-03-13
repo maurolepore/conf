@@ -1,0 +1,35 @@
+---
+title: "2018, chirunconf: Experience"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+Chirunconf was a total success. Here is my personal experience.
+
+I had proposed a few projects, but as I read and commented those of others I realized this: many people with great ideas could benefit from my help with in setting up an efficient workflow for collaboration and in building infrastructure for their package.
+
+
+xxxxxxxxx
+
+I was unsure to make this "my contribution", as people with way more experience were already available. But I imagined they would get flooded with questions. Also I remembered that as a diversity scholar I'm expected to multiply the help I received. The application to the diversity scholarship to attend rstudio::conf 2019 put it nicely: "We want to fund people who will have a multiplier effect in their communities".
+
+So I went for it. I offered this help and it turned out to be very rewarding. I first worked with xxx, xxxx, xxx, and xxx and helped them set up their workflow to build the xxxxxxx package. They already had the fundamental structure of an R package and I added a few more pieces. I then worked with xxxxxx and helped her organize the structure of the xxxxxxxxx package. Finally I helped xxxxx and xxxx better understand and practice the process for submitting pull requests with RStudio + Git + GitHub.
+
+I also spent a lot of time getting to know people and their work. ...
+
+----
+
+Almost a decade ago my PhD mentor sent me and other students to a conference with one specific goal: To meet at least three people we wanted to meet. Good advice. Here is why and how you can do it.
+
+The key is let the other person do most of the talking. This is easy to forget under the stress of meeting new people. But we should relax and ask more questions. After all, it is like asking directions to strangers on the the street. Most people will be happy to help and expect nothing in return.
+
+It helps being prepared. I just attended chirunconf, the first R unconference in Chicago. A week before the meeting I started reading the profiles of other atendees. Many of them had a lot in common with me. When I met them our similar interests or experiences were a great way to start a conversation. Sometimes we kept talking much longer. Other times genuinely thanked them for their time and opinions and moved on to meet other people.
+
+Preparation is particularly important before meeting popular or busy people.
+The most popular and busy people I met at chirunconf were David Smith and Jim Hester. I first asked them if and when they would be able to answer a few short questions, and I explained why I valued their particular and extensive experience. It worked wonders. The meetings were at a convenient time, focused on a few questions relevant to their expertise, and lasted about 5 minutes. I felt comfortable and David and Jim likely felt helpful.
+
