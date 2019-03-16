@@ -9,7 +9,26 @@ knitr::opts_chunk$set(
 )
 ```
 
-Receiving support to attend an R event as a diversity scholar is not only a great honour but also a great responsability. "We want to fund people who will have a multiplier effect in their communities" -- the [application to rstudio::conf 2019](xxxxxxxxx) read. A few weeks ago I was writing [my application to attend chirunconf](xxxxxx). One question would strongly guide my participation: "What would make a successful unconf for you?". For me, helping others and meeting people would make chirunconf 2019 a total success.
+RSTUDIO CONF. REFLECTION.
+
+What helps you reflect about your role in a community you care about? Maybe talking to a friend or spending time in nature? How about writing scholarship applications?
+
+Over the past year I applied to [several diversity scholarships to attend R events](xxxxxxx). Sure, wining a scholarships feels great, and you can learn a lot in R events. But you can also learn a lot from the applications themselves, as you reflect about your role in the R community and you clarify what you expect from each event.
+
+What works well for me is to read the application form carefully, and to start writting long before the deadline. I pay great attention to statements like "We want to fund people who will have a multiplier effect in their communities". I ignore statements like "We estimate this form will take you 30 minutes to complete".  I usually invest 1-2 hours each day for a week. I write, think, rewrite, and repeat until I run out of energy or time.
+
+With this approach you always win. Even if you don't win the scholarship, you would still learn something useful for yourself and for the next time you apply.
+
+
+
+
+
+
+
+
+CHIRUNCONF
+
+I am facinated by how strongly a good question can lead to a good action. A few weeks ago, I was writing [my application to attend chirunconf](xxxxxx). The form asked "What would make a successful unconf for you?" For me, helping others and meeting people would make chirunconf 2019 a total success.
 
 I had proposed a few projects, but as I read and commented those of others I realized this: many people with great ideas could benefit from my help with in setting up an efficient workflow for collaboration and in building infrastructure for their package. I was unsure to make this "my contribution", as people with way more experience were already available. But I imagined they would get flooded with questions.
 
@@ -20,4 +39,6 @@ I also invested time in getting to know people and their work. Almost a decade a
 It helps being prepared. A week before chirunconf I started reading the profiles of other attendees. Many of them had a lot in common with me, which later helped me start and focus the conversation. Preparation is particularly important before meeting popular or busy people. Before I met David Smith and Jim Hester I asked them if and when they would be able to answer a few short questions, and I explained why I valued their particular and extensive experience. 
 All meetings went as planned, felt comfortable, and helped me a lot.
 
-xxx conclusion.
+
+CONCLUSION
+
