@@ -21,6 +21,25 @@ Elijaras un proyecto basado en datos y problemas reales de negocios y ciencia. T
 
 
 
+--------
+
+> La solicitud deberá realizarse antes de fines de marzo mediante una carta de intención que detalle la actividad a realizar y su rol dentro de la misma.
+
+
+
+Gracias por informarme sobre el programa de apoyo a exestudiantes y becarios de Universidades de Australia. 
+
+Quisiera aprovechar su oferta de asistencia financiera para asistir a una capacitacion en Melbourne, Australia, del 13 al 15 de mayo de 2019 -- incluyendo un dia de workshop seguido de dos dias de conferencia. 
+
+El costo seria proximadamente AUD 1.980, incluyendo la capacitacion (AUD 580 https://lambdajam.yowconference.com.au/register/) y vuelos (AUD 1.400 https://flights.app.goo.gl/xePUA). El presupuesto disponible seria insuficiente para cubrir la estadia, pero con mucho gusto la pagaria yo mismo.
+
+Le recuerdo que registrado como "Alumni" en Argentina. Soy un exestudiante de la Universidad de Queensland, donde complete mi doctorado en 2015 (certificado obtenido: http://bit.ly/maurolepore_phd).
+
+Y el anho pasado recibi su generoso apoyo para asistir a un workshop de desarrollo de software en Estados Unidos (http://bit.ly/2Ehs7mD). Ese curso me ayudo a mejorar la calidad y eficiencia de mi trabajo, y extendio mi red de contactos profesionales en el contexto de la lengua de programacion que mas utilizo (https://www.r-project.org/), principalmente en Estados Unidos.
+
+Este anho su apoyo elevaria mis habilidades a un nivel mas general. La capacitacion que ahora propongo esta enfocada no en una lengua de programacion especifica sino en un paradigma general que abarca muchas lenguas de programacion (https://lambdajam.yowconference.com.au/). Ademas, esta capacitacion me llevaria a Australia por primera vez desde que termine mis estudios.
+
+
 
 ### Application
 
@@ -29,7 +48,8 @@ Australian Embassy Villanueva 1400 Buenos Aires, Argentina
 
 Estimada Cecilia B. Fernández,
 
-Gracias por su correo electrónico del día xxxxxxxxxxxxxxxxx. Soy un “Alumni” registrado en la Embajada de Australia en Argentina y quisiera aprovechar su generosa oferta de AUD 2.000 para perfeccionar las habilidades que aplico en mi trabajo.
+Gracias por su correo electrónico del día 27 de febrero de 2019. Soy un “Alumni” registrado en la Embajada de Australia en Argentina y quisiera aprovechar su generosa oferta de AUD 2.000 para perfeccionamiento profecional.
+
 
 El anho (xxx) pasado recibi apoyo para el curso Building Tidy Tools. Este anho quisiera aprovechar nuevamente su generosa oferta para desarrollar mis habilidades profesionales aun mas.
 
