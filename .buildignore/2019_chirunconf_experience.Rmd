@@ -1,5 +1,5 @@
 ---
-title: "2018, chirunconf: Experience"
+title: "Find and share your supeR power"
 ---
 
 ```{r, include = FALSE}
@@ -9,36 +9,13 @@ knitr::opts_chunk$set(
 )
 ```
 
-RSTUDIO CONF. REFLECTION.
+Two weeks ago almost [50 people](https://chirunconf.github.io/#team) from industry, academia, government, nonprofits, and more gathered at chirunconf. We had been attracted by the excitement of contributing to the wonderful R community in Chicago, and by the impeccable organization of [Emily Riederer](https://github.com/EmilyRiederer), and [Alex Hayes](https://github.com/alexpghayes), [Angela Li](https://github.com/angela-li). Even before the unconference, Angela had already earned the nickname "super woman". 
 
-What helps you reflect about your role in a community you care about? Maybe talking to a friend or spending time in nature? How about writing scholarship applications?
+During the conference's icebreaker I noticed something surprising. Alex asked "How well do you know your role in the R community?". We would all place ourselves along a line, representing a gradient from "I'm unsure what my role is" to "I'm certain what my role is". It was hard to place myself, but I guessed that "super woman" would stand on the "certain" end. After all, she was clearly the strongest glue that brought us all together. Wrong guess. Angela was standing closer to the middle. 
 
-Over the past year I applied to [several diversity scholarships to attend R events](xxxxxxx). Sure, wining a scholarships feels great, and you can learn a lot in R events. But you can also learn a lot from the applications themselves, as you reflect about your role in the R community and you clarify what you expect from each event.
+What was going on? I think Angela's is like most of us. We are too used to ourselves. Whatever we do most often and best feels so natural that we struggle to see it as a super power worth sharing. Yet that is likely our most valuable contribution to the R community. 
 
-What works well for me is to read the application form carefully, and to start writting long before the deadline. I pay great attention to statements like "We want to fund people who will have a multiplier effect in their communities". I ignore statements like "We estimate this form will take you 30 minutes to complete".  I usually invest 1-2 hours each day for a week. I write, think, rewrite, and repeat until I run out of energy or time.
+How can you identify our super powers? Well you must first think about them, but this will unlikely happen in everyday life. What helps is to write about them. After all, "If you think without writing, you only think you're thinking." - Leslie Lamport. A great way is to apply to scholarships to attend R events. This will give you motivation, focus, and possibly a reward.
 
-With this approach you always win. Even if you don't win the scholarship, you would still learn something useful for yourself and for the next time you apply.
-
-
-
-
-
-
-
-
-CHIRUNCONF
-
-I am facinated by how strongly a good question can lead to a good action. A few weeks ago, I was writing [my application to attend chirunconf](xxxxxx). The form asked "What would make a successful unconf for you?" For me, helping others and meeting people would make chirunconf 2019 a total success.
-
-I had proposed a few projects, but as I read and commented those of others I realized this: many people with great ideas could benefit from my help with in setting up an efficient workflow for collaboration and in building infrastructure for their package. I was unsure to make this "my contribution", as people with way more experience were already available. But I imagined they would get flooded with questions.
-
-So I went for it. I offered this help and it turned out to be very rewarding. I first worked with xxx, xxxx, xxx, and xxx and helped them set up their workflow to build the xxxxxxx package. They already had the fundamental structure of an R package and I added a few more pieces. I then worked with xxxxxx and helped her organize the structure of the xxxxxxxxx package. Finally I helped xxxxx and xxxx better understand and practice the process for submitting pull requests with RStudio + Git + GitHub.
-
-I also invested time in getting to know people and their work. Almost a decade ago my PhD mentor sent me and other students to a conference with one specific goal: To meet at least three people we wanted to meet. Good advice. That's the point of meeting people personally, isn't it? Networking at chirunconf helped me to better understand alternative paths my career might take. I talked to more than half of [chirunconf participants](https://chirunconf.github.io/#team), as if I was asking them for directions on the street. With this approach, everyone is happy to help and expect nothing in return.
-
-It helps being prepared. A week before chirunconf I started reading the profiles of other attendees. Many of them had a lot in common with me, which later helped me start and focus the conversation. Preparation is particularly important before meeting popular or busy people. Before I met David Smith and Jim Hester I asked them if and when they would be able to answer a few short questions, and I explained why I valued their particular and extensive experience. 
-All meetings went as planned, felt comfortable, and helped me a lot.
-
-
-CONCLUSION
+If you win the scholarship, great! But if you don't, you would still gain great insight about how you can make a meaningful contribution to the R community. With this mindset you always win. 
 

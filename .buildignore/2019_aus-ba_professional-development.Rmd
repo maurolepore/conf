@@ -1,0 +1,63 @@
+---
+title: "Untitled"
+output: github_document
+---
+
+### Announcement
+
+Descubrimiento de conocimiento a partir de datos
+
+Jueves 6 de mayo, 8:00AM - viernes 7 de mayo, 5PM
+
+Este es un curso intensivo dedicado a científicos de datos con experiencia previa. Al final del curso, habrás aprendido las mejores prácticas y podrás aplicarlas para resolver problemas reales de negocios y ciencia.
+
+Día 1
+
+Primero revisaremos brevemente algunos conceptos y técnicas fundamentales. Luego discutiremos en grupo posibles soluciones a tres casos reales tratados en ixpantia. Finalmente revelaremos la solución de ixpantia en cada caso, resaltando la aplicación practica de los conceptos teóricos previamente mencionados, y mencionando que compromisos son comunes, necesarios, y aceptables en el contexto de negocios y ciencia.
+
+ Día 2:
+
+Elijaras un proyecto basado en datos y problemas reales de negocios y ciencia. Te acompañaremos en el proceso de búsqueda, limpieza, transformación, visualización, modelado, y comunicación de datos. Te guiaremos en la construcción de las herramientas necesarias para completar tu proyecto.
+
+
+
+
+### Application
+
+Cecilia B. Fernández | Public Affairs Officer
+Australian Embassy Villanueva 1400 Buenos Aires, Argentina
+
+Estimada Cecilia B. Fernández,
+
+Gracias por su correo electrónico del día xxxxxxxxxxxxxxxxx. Soy un “Alumni” registrado en la Embajada de Australia en Argentina y quisiera aprovechar su generosa oferta de AUD 2.000 para perfeccionar las habilidades que aplico en mi trabajo.
+
+El anho (xxx) pasado recibi apoyo para el curso Building Tidy Tools. Este anho quisiera aprovechar nuevamente su generosa oferta para desarrollar mis habilidades profesionales aun mas.
+
+xxx
+
+Si tiene alguna duda, por favor no dude en contactarme.
+
+Muy atentamente,
+Mauro Lepore
+IT Specialist - R package developer
+https://forestgeo.si.edu/mauro-lepore
+Smithsonian Institution, ForestGEO
+Washington DC, 20560, US
+Phone: +1 202 633 2204 | Mob. +1 346 773 2738
+maurolepore@gmail.com
+
+
+
+
+
+
+
+Mis estudios en Australia están vinculados con mi trabajo actual de la siguiente forma. En Australia -- como parte de mis estudios doctorales -- aprendí a desarrollar programas para el análisis de datos ecológicos; y me gradué como “Doctor of Philosophy” de la Universidad de Queensland, Australia en noviembre del 2015 (diploma: http://bit.ly/maurolepore_phd). Mis habilidades y título nuevos derivaron en una investigación post-doctoral en el “Smithsonian Tropical Research Institute”, y son fundamentales para mi trabajo actual en ForestGEO. ForestGEO es una red internacional de investigadores de bosques (https://forestgeo.si.edu). Mi trabajo consiste en desarrollar programas para esos investigadores puedan analizar sus datos eficientemente (biografía profesional: https://bit.ly/mauro-lepore).
+
+Con su apoyo económico quisiera registrarme en un curso que impactaría positivamente en mi trabajo, ahora y en el futuro. El curso es un entrenamiento intensivo para desarrollar mejores programas para el análisis de datos (curso: http://bit.ly/2Ehs7mD). (El curso cuesta un poco mas que AUD 2.000 pero yo pagaría la diferencia). El instructor es Hadley Wickham (http://hadley.nz/) -- uno de los referentes mundiales en el área, y es quien creo el paradigma de programación que yo utilizo para desarrollar mis propios programas. El curso tendría, entre otros, estos beneficios:
+•	Aumentaría mi productividad: Me ayudaría a reducir el tiempo que necesito para desarrollar nuevos programas para el análisis de datos.
+•	Aumentaría la calidad de mi trabajo: Me ayudaría a desarrollar programas que son más fáciles de entender, modificar, y utilizar.
+•	Extendería mi red de contactos profesionales: Me permitiría conocer personalmente a expertos en mi área.
+
+
+

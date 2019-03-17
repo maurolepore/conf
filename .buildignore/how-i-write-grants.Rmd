@@ -1,0 +1,10 @@
+---
+title: "A note on how I write scholarship applications"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+What works well for me is to read the application form carefully, and to start writing long before the deadline. I pay great attention to statements like "We want to fund people who will have a multiplier effect in their communities". I ignore statements like "We estimate this form will take you 30 minutes to complete".  I usually invest 1-2 hours each day for a week. I write, think, rewrite, and repeat until I run out of energy or time.
