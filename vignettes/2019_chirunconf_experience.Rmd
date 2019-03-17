@@ -1,6 +1,6 @@
 ---
 title: "2019, chirunconf: Experience"
-subtitle: "Discover and share your supeR power"
+subtitle: "Discover and share your supeR powers"
 ---
 
 ```{r, include = FALSE}
@@ -10,11 +10,12 @@ knitr::opts_chunk$set(
 )
 ```
 
-
 On March 9, 2019, almost [50 people](https://chirunconf.github.io/#team) gathered at [chirunconf](https://chirunconf.github.io/), the first R unconference in Chicago, USA. We had been attracted by the excitement of contributing to the wonderful R community, and by the excellent organization of [Emily Riederer](https://twitter.com/EmilyRiederer), [Alex Hayes](https://twitter.com/alexpghayes), and [Angela Li](https://twitter.com/CivicAngela). By the time the unconference started, Angela had already earned the nickname "super woman". 
 
 Angela's supeR powers where obvious to everyone -- except herself. During the icebreaker, Alex asked "How well do you know what your role in the R community is?". We then placed ourselves along a line, representing a gradient from "I'm unsure" to "I'm certain". I guessed that "super woman" would stand on the "certain" end. She was clearly the strongest force bringing and keeping us all together. Instead, she was standing next to me, near the middle. What was going on? 
 
 I think Angela is like most of us. We are too used to ourselves. What we do best feels so natural that we struggle to realize it is something special. Yet that is the best gift we can give to the R community.
 
-Go ahead and discover your supeR power. You may not think about them in everyday life but you can push yourself to do it by writing. ("If you think without writing, you only think you're thinking." - Leslie Lamport.) To build enough motivation and focus try applying to scholarships for R events. If you win the scholarship, great! But even if you don't, you will still gain insight about what to share with the R community. If you think this way, you and the R community will always win.
+You may not think about your supeR powers in everyday life but you can push yourself to do it by writing. ("If you think without writing, you only think you're thinking." - Leslie Lamport.) To build enough motivation and focus try applying to scholarships for R events. If you win the scholarship, great! But even if you don't, you will still gain insight about what to share with the R community. If you think this way, you and the R community will always win. 
+
+Now go ahead, discover and share your supeR powers. 
