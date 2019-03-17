@@ -1,5 +1,5 @@
 ---
-title: "Find and share your supeR power"
+title: "Discover and share your super poweR"
 ---
 
 ```{r, include = FALSE}
@@ -9,13 +9,13 @@ knitr::opts_chunk$set(
 )
 ```
 
-Two weeks ago almost [50 people](https://chirunconf.github.io/#team) from industry, academia, government, nonprofits, and more gathered at chirunconf. We had been attracted by the excitement of contributing to the wonderful R community in Chicago, and by the impeccable organization of [Emily Riederer](https://github.com/EmilyRiederer), and [Alex Hayes](https://github.com/alexpghayes), [Angela Li](https://github.com/angela-li). Even before the unconference, Angela had already earned the nickname "super woman". 
+On March 9, 2019, almost [50 people](https://chirunconf.github.io/#team) gathered at [chirunconf](https://chirunconf.github.io/), the first R unconference in Chicago, USA. We had been attracted by the excitement of contributing our ideas and code to the wonderful R community, and by the excellent organization of [Emily Riederer](https://twitter.com/EmilyRiederer), and [Alex Hayes](https://twitter.com/alexpghayes), [Angela Li](https://twitter.com/CivicAngela). Even before the unconference, Angela had already earned the nickname "super woman". 
 
-During the conference's icebreaker I noticed something surprising. Alex asked "How well do you know your role in the R community?". We would all place ourselves along a line, representing a gradient from "I'm unsure what my role is" to "I'm certain what my role is". It was hard to place myself, but I guessed that "super woman" would stand on the "certain" end. After all, she was clearly the strongest glue that brought us all together. Wrong guess. Angela was standing closer to the middle. 
+During the conference's icebreaker something surprising happened. Alex asked "How well do you know your role in the R community?". We would all place ourselves along a line, representing a gradient from "I'm unsure what my role is" to "I'm certain what my role is". It was hard to place myself, but I guessed that "super woman" would stand on the "certain" end. After all, she was clearly the strongest glue that brought us all together. Wrong guess. Angela was standing closer to the middle. What was going on? 
 
-What was going on? I think Angela's is like most of us. We are too used to ourselves. Whatever we do most often and best feels so natural that we struggle to see it as a super power worth sharing. Yet that is likely our most valuable contribution to the R community. 
+I think Angela's is like most of us. We are too used to ourselves. Whatever we do most often and best feels so natural that we struggle to see it as a super power worth sharing. Yet that is likely our most valuable contribution to the R community. 
 
-How can you identify our super powers? Well you must first think about them, but this will unlikely happen in everyday life. What helps is to write about them. After all, "If you think without writing, you only think you're thinking." - Leslie Lamport. A great way is to apply to scholarships to attend R events. This will give you motivation, focus, and possibly a reward.
+How can we identify our super powers? Well, we must first think about them, but this will unlikely happen in everyday life. What helps is to write about them. After all, "If you think without writing, you only think you're thinking." - Leslie Lamport. 
 
-If you win the scholarship, great! But if you don't, you would still gain great insight about how you can make a meaningful contribution to the R community. With this mindset you always win. 
+A great way is to discover your super powers is to apply to scholarships for R events. This provides enough motivation, focus, and maybe a reward. If you win the scholarship, great! But if you don't, you would still gain insight about what is the most valuable contribution to share with the R community. With this mindset we all and always win. 
 
