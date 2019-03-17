@@ -1,0 +1,55 @@
+Untitled
+================
+
+Over the past year I applied to [several diversity scholarships to
+attend R events](xxxxxxx). Sure, wining a scholarships feels great, and
+you can learn a lot in R events. But you can also learn a lot from the
+applications themselves, as you reflect about your role in the R
+community and you clarify what you expect from each event.
+
+With this approach, you always win.
+
+CHIRUNCONF
+
+I am facinated by how strongly a good question can lead to a good
+action. A few weeks ago, I was writing [my application to attend
+chirunconf](xxxxxx). The form asked “What would make a successful unconf
+for you?” For me, helping others and meeting people would make
+chirunconf 2019 a total success.
+
+I had proposed a few projects, but as I read and commented those of
+others I realized this: many people with great ideas could benefit from
+my help with in setting up an efficient workflow for collaboration and
+in building infrastructure for their package. I was unsure to make this
+“my contribution”, as people with way more experience were already
+available. But I imagined they would get flooded with questions.
+
+So I went for it. I offered this help and it turned out to be very
+rewarding. I first worked with xxx, xxxx, xxx, and xxx and helped them
+set up their workflow to build the xxxxxxx package. They already had the
+fundamental structure of an R package and I added a few more pieces. I
+then worked with xxxxxx and helped her organize the structure of the
+xxxxxxxxx package. Finally I helped xxxxx and xxxx better understand and
+practice the process for submitting pull requests with RStudio + Git +
+GitHub.
+
+I also invested time in getting to know people and their work. Almost a
+decade ago my PhD mentor sent me and other students to a conference with
+one specific goal: To meet at least three people we wanted to meet. Good
+advice. That’s the point of meeting people personally, isn’t it?
+Networking at chirunconf helped me to better understand alternative
+paths my career might take. I talked to more than half of [chirunconf
+participants](https://chirunconf.github.io/#team), as if I was asking
+them for directions on the street. With this approach, everyone is happy
+to help and expect nothing in return.
+
+It helps being prepared. A week before chirunconf I started reading the
+profiles of other attendees. Many of them had a lot in common with me,
+which later helped me start and focus the conversation. Preparation is
+particularly important before meeting popular or busy people. Before I
+met David Smith and Jim Hester I asked them if and when they would be
+able to answer a few short questions, and I explained why I valued their
+particular and extensive experience. All meetings went as planned, felt
+comfortable, and helped me a lot.
+
+CONCLUSION

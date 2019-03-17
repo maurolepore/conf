@@ -4,6 +4,7 @@ pkgdown_sha: ~
 articles:
   2018_ropensci-runconf_experience: 2018_ropensci-runconf_experience.html
   2019_chirunconf_application: 2019_chirunconf_application.html
+  2019_chirunconf_experience: 2019_chirunconf_experience.html
   2019_rstudioconf_application: 2019_rstudioconf_application.html
   2019_user_application: 2019_user_application.html
 
