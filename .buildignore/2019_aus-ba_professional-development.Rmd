@@ -1,7 +1,69 @@
 ---
 title: "Untitled"
-output: github_document
+output: word_document
 ---
+
+### Brisbane
+
+Cecilia B. Fernández | Public Affairs Officer  
+Australian Embassy Villanueva 1400 Buenos Aires, Argentina  
+
+Estimada Cecilia B. Fernández,
+
+Gracias por su correo electrónico del día 27 de febrero de 2019. Quisiera aprovechar su generosa oferta de AUD 2.000 para perfeccionamiento profesional. 
+
+Soy un "Alumni" registrado en la Embajada de Australia en Argentina. Hice mi doctorado en la Universidad de Queensland, Australia (diploma: http://bit.ly/maurolepore_phd). Mi area de estudio fue ecologia, y desde entonces me especialice en programacion para el analisis de datos ecologicos. Quisiera asistir a un entrenamiento en habilidades de programacion y ciencia de datos apundato a investigadores. 
+
+DETALLES
+
+Los detalles del curso son estos:
+
+Introduction to Python - Software Carpentry  
+N53 0.57 Nathan Campus, Griffith University  
+9am to 5pm 15th-17th April, 2019  
+https://bio-swc-bne.github.io/2019-04-15-GriffithUni-Python/  
+
+BENEFICIOS
+
+Este curso tendra un impacto muy positivo en mi desarrollo profesional. Me dara herramientas nuevas, que me permitiran resolver un rango mas amplio de problemas de investigacion. Este curso esta enfocado en una lengua de programacion (Python) que he usado poco, y complementa muy bien mi amplia experiencia en un lengua de programacion similar (R). Ademas, Este curso me reconectara con Australia, particularmente con gente que trabaja en areas muy similares a la mia.
+
+NOTAS
+
+* El curso se desarrollara en aproximadamente dos semanas. Le agradeceria enormemente que procesara mi aplicacion lo antes posible.
+
+* El curso es gratuito. Usare el presupuesto enteramente en viaje y estadia.
+
+* Yo soy instructor de la organizacion que dicta este curso, y me ofreci a ayudar con una tecnologia que conozco muy bien (Git) porque aparentemente necesitan ayuda (https://twitter.com/hackyhourGU/status/1111052438855770112). Esto significa que, aun si mi nombre apareciera listado como instructor o ayudante, este entrenamiento me ensanhara a mi mucho mas de lo que yo ensenhare a otros.
+
+Si tiene alguna duda, por favor no dude en contactarme.
+
+Muy atentamente,  
+Mauro Lepore  
+
+IT Specialist - R package developer  
+https://forestgeo.si.edu/mauro-lepore  
+Smithsonian Institution, ForestGEO  
+Washington DC, 20560, US  
+Phone: +1 202 633 2204 | Mob. +1 346 773 2738  
+maurolepore@gmail.com  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Announcement
 
