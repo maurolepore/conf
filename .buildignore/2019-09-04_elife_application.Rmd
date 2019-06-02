@@ -1,0 +1,89 @@
+---
+title: "2019, eLife (Cambridge, UK): Application"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+https://sprint.elifesciences.org/
+
+### Call for projects. 
+
+> Do you have a project/idea that you would like to develop at the Sprint? By applying to be a project lead, you will have the opportunity to pitch your project before the Sprint. Please note that we would like to support projects that are still in their infancies/beta stages. At the Innovation Sprint, I would like to work on...
+
+> Please tell us briefly which problem(s) you would like to address in relation to research communication, open science, and/or applying the latest technologies to research and discovery.
+
+At the Innovation Sprint, I would like create a minimal kit of learning resources and tools for researchers to more easily build the skills and infrastructure they need to contribute to open science.
+
+(100 words)
+
+### Your skills and experience. 
+
+> Please specify other skills of relevance that you would share at the event, or add detail to explain any of the skills listed above, such as specifying programming languages, technical skills, area of research, and listing years of experience. Include any relevant links, such as your website and/or Twitter, Github and/or LinkedIn pages.
+
+(200 words)
+
+I am an ecologist turned software developer and data science trainer and consultant (https://www.linkedin.com/in/mauro-lepore/). My mission is to help scientists work openly and collaboratively. 
+
+At the event I would like to share my experience teaching and building software infrastructure to help researchers work in a way that is more open, reproducible, and fun. I have already helped specific research groups globally. With your help we can build a system that scales up well and has massive positive impact.
+
+I started using R over five years ago, during my PhD (UQ, Australia) and continued during my postdoc (Smithsonian; Panama). Since 2017 I build R packages for a global network of forest ecologists (Smithsonian, USA; https://forestgeo.github.io/fgeo/). Technologies I use daily include R, RStudio, Git, GitHub, and TravisCI. I am also a data science trainer for The Carpentries (https://carpentries.org/), and a freelance consultant for ixpantia (https://ixpantia.com).
+
+I regularly contribute to open software and reproducible research (https://maurolepore.github.io). For example, I am an instructor for The Carpentries (https://carpentries.org/instructors/), and a peer-reviewer of rOpenSci packages (http://bit.ly/mauro-ropensci-review-gitignore). Also, I have been invited to attend other open science meetings (https://unconf18.ropensci.org/#participants, and https://chirunconf.github.io/#team), and to speak at a DataLatam webinar (http://youtu.be/SVzyWV1Iep8).
+
+### I am interested in participating in the Innovation Sprint because…
+
+> Please tell us briefly what you hope to gain from participating in the event.
+
+(100 words)
+
+I am interested in participating in the Innovation Sprint because with the help of other motivated attendees we can build a system for onboarding researchers joining open science at scale.
+
+Many of us (attendees) already have some experience onboarding fellow researchers to join open science. Many attempts may have failed but some surely worked. Collectively, should be enough success stories to identify what works and why, then focus on building a system to replicate those "bright spots" at scale. Two models that we could use for inspiration are rOpenSci and The Carpentries.
+
+### Tell us about something you have created that you are proud of:
+
+> Please share the story of an idea you have prototyped or brought to fruition before, what you contributed and learned, and why you are proud of this. The idea does not need to relate to the scope of this event, but we are particularly interested in contributions to any open (source or science) projects!
+
+(100 words)
+
+In science, I'm proud of having articulated how the idea of "bright spots" and paleo-ecological data can help scientists and conservationists better understand and protect ecosystems that remain similar to their natural condition despite human impact (http://bit.ly/mauro-bright-spots). I contributed the main idea and data analysis; I learned to collaborate with co-authors with different experiences and skills. I am proud of having played a critical role en multiple stages from the development of the idea to publication in a high-impact journal.
+
+I'm proud of having built a collection of R packages to help forest ecologists analyze their data (https://forestgeo.github.io/fgeo/; https://cran.r-project.org/web/packages/fgeo/index.html). When I started this project I had little experience building R packages, and no guidance about how to do it. I learned from scratch the best practices in software development with R, I researched a software development model suitable for the large scale of my task, and adapted it to fit me specific needs. Along the way I met and learned from some of the most productive (and friendly) R package developers worldwide, and I was welcome to join multiple organizations alligned with my mission of making data science more open, reproducible and fun.
+
+
+
+
+
+
+
+### Have you been or are you currently involved with eLife?
+
+> Please list any associations with eLife, such as being a participant at last year's Sprint, an eLife Ambassador or ECAG member, involvement in a project or initiative supported by eLife, or having worked directly with us before. We may take this into account when selecting between highly rated applications; other factors are of higher priority.
+
+
+
+---
+
+Proposing a project: 
+
+### Please describe the project/idea you would like to pursue at the Sprint. Please tell us about the motivation behind the idea, what you hope to achieve at the Sprint, and what skill sets you are looking for in your team. Feel free to include any relevant links to Github repositories/websites.
+
+Smart, motivated researchers shouldn't struggle to join the open science revolution. At the Sprint I hope to curate, develop, or adapt the tools and learning resources researchers need to work in a more efficient, collaborative, and reproducible way.
+
+The Sprint should gather researchers representing a wide range of fields and computational ability. This is an excellent opportunity to prototype and test a kit with the minimal learning resources and tools that researchers need to build the basic software infrastructure they need to work openly and collaborate fluently with others. Useful technologies and learning resources are already available, but they are so many, scattered, and full of jargon that most researchers end up frustrated and paralyzed. 
+
+As an instructor of The Carpentries and data science consultant at the Smithsonian Institution, time and again I have seen researchers give up during the steep initial learning curve, before they experience the payoff. It is not them who fail; the failure is of the system that filters who joins the open science club. A lot of people want to join but the club is too exclusive. Let's make open science a popular club. Joining open science should be the path of least resistance; it should be inevitable, exponential, and friendly.
+
+--
+
+https://forestgeo.github.io/fgeo/
+
+https://maurolepore.github.io/
+
+https://maurolepore.github.io/confs/
+
