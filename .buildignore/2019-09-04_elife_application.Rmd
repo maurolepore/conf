@@ -29,7 +29,7 @@ At the Innovation Sprint, I would like create a minimal kit of learning resource
 
 I am an ecologist turned software developer and data science trainer and consultant (https://www.linkedin.com/in/mauro-lepore/). My mission is to help scientists work openly and collaboratively. 
 
-At the event I would like to share my experience teaching and building software infrastructure to help researchers work in a way that is more open, reproducible, and fun. I have already helped specific research groups globally. With your help we can build a system that scales up well and has massive positive impact.
+At the event I would like to share my experience teaching and building software infrastructure to help researchers work in a way that is more open, reproducible, and fun. I have already helped a few research groups globally, but with your help we could build a system that scales up well and has a massive positive impact on open science.
 
 I started using R over five years ago, during my PhD (UQ, Australia) and continued during my postdoc (Smithsonian; Panama). Since 2017 I build R packages for a global network of forest ecologists (Smithsonian, USA; https://forestgeo.github.io/fgeo/). Technologies I use daily include R, RStudio, Git, GitHub, and TravisCI. I am also a data science trainer for The Carpentries (https://carpentries.org/), and a freelance consultant for ixpantia (https://ixpantia.com).
 
@@ -41,9 +41,9 @@ I regularly contribute to open software and reproducible research (https://mauro
 
 (100 words)
 
-I am interested in participating in the Innovation Sprint because with the help of other motivated attendees we can build a system for on-boarding researchers joining open science at scale.
+I am interested in participating in the Innovation Sprint because with the help of other motivated attendees we could build a scalable system for on-boarding researchers into data science.
 
-Many of us (attendees) already have some experience on-boarding fellow researchers to join open science. Many attempts may have failed but some surely worked. Collectively, should be enough success stories to identify what works and why, then focus on building a system to replicate those "bright spots" at scale. Two models that we could use for inspiration are rOpenSci and The Carpentries.
+Many of us (attendees) already have some experience on-boarding fellow researchers who want to work in a more open, collaborative, and reproducible way. Many attempts may have failed but some surely worked. Collectively, we should have enough success stories to identify what works and why, then focus on building a system to replicate those "bright spots" at scale. Two models that we could use for inspiration are rOpenSci and The Carpentries.
 
 ### Tell us about something you have created that you are proud of:
 
@@ -51,7 +51,7 @@ Many of us (attendees) already have some experience on-boarding fellow researche
 
 (100 words)
 
-I'm proud of having built a collection of R packages to help forest ecologists analyze their data (https://forestgeo.github.io/fgeo/; https://cran.r-project.org/web/packages/fgeo/index.html). In less than one year I went from building my first R package to building a scalable package-ecosystem using best practices in software development with R. Along the way I met and learned from some of the most productive (and friendly) R package developers worldwide, and I was welcome to join multiple organizations aligned with my mission of making data science more open, reproducible and fun.
+In less than two years I went from building my first R package to building a package-ecosystem for a global network of forest ecologists (https://forestgeo.github.io/fgeo/). Along the way, I met some of the most productive and friendly R developers worldwide, and joined multiple meetups and organizations supporting open science. Inspired, I learned the best practices in software development with R. I am proud that I am now able to give back to the open software/data community by teaching others what I now know.
 
 ### Have you been or are you currently involved with eLife?
 
@@ -65,15 +65,27 @@ Proposing a project:
 
 ### Please describe the project/idea you would like to pursue at the Sprint. Please tell us about the motivation behind the idea, what you hope to achieve at the Sprint, and what skill sets you are looking for in your team. Feel free to include any relevant links to Github repositories/websites.
 
-Smart, motivated researchers shouldn't struggle to join the open science revolution. At the Sprint I hope to curate, develop, or adapt the tools and learning resources researchers need to work in a more efficient, collaborative, and reproducible way.
+Smart, motivated researchers shouldn't struggle to join the open science revolution. At the Sprint I hope to develop a scalable system to on-board researchers who want to work in a more transparent, reproducible, and collaborative way. Two models for inspiration include rOpenSci (https://ropensci.org) and The Carpentries (https://carpentries.org/).
 
-The Sprint should gather researchers representing a wide range of fields and computational ability. This is an excellent opportunity to prototype and test a kit with the minimal learning resources and tools that researchers need to build the basic software infrastructure they need to work openly and collaborate fluently with others. Useful technologies and learning resources are already available, but they are so many, scattered, and full of jargon that most researchers end up frustrated and paralyzed. 
+The Sprint should gather researchers representing a wide range of fields and computational ability. This is an excellent opportunity to prototype and test a kit with the minimal learning resources and tools for new open scientists to build their own skills and software infrastructure. 
 
-As an instructor of The Carpentries and data science consultant at the Smithsonian Institution, time and again I have seen researchers give up during the steep initial learning curve, before they experience the payoff. It is not them who fail; the failure is of the system that filters who joins the open science club. A lot of people want to join but the club is too exclusive. Let's make open science a popular club. Joining open science should be the path of least resistance; it should be inevitable, exponential, and friendly.
+The system may include:
+
+* Fast, friendly support from previously on-boarded researchers (e.g. via slack).
+* A simple way to incorporate feedback (e.g. via Google forms or GitHub issues). 
+* Tutorials of multiple kinds (e.g. interactive, text, video).
+* A checkout process to credit newly on-boarded folks (e.g. certificate, badge).
+* A strong focus on community, diversity, respect, continuous learning.
+* A code of conduct.
+* A way to make people feel safe asking questions.
+* A way to make people feel good about answering questions.
+
+Useful technologies and learning resources are already available, but they are so many, scattered, and full of jargon that most researchers end up frustrated and paralyzed. 
+
+As a data science instructor, developer and consultant, time and again I have seen researchers give up during the steep initial learning curve, before they experience the payoff. It is not them who fail; the failure is of the system that filters who joins the open science club. A lot of people want to join but the club is too exclusive. Let's make open science a popular club. Can we make open science the path of least resistance and the most fun?
 
 --
 
-https://forestgeo.github.io/fgeo/
 
 https://maurolepore.github.io/
 
