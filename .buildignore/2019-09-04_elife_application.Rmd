@@ -41,9 +41,9 @@ I regularly contribute to open software and reproducible research (https://mauro
 
 (100 words)
 
-I am interested in participating in the Innovation Sprint because with the help of other motivated attendees we can build a system for onboarding researchers joining open science at scale.
+I am interested in participating in the Innovation Sprint because with the help of other motivated attendees we can build a system for on-boarding researchers joining open science at scale.
 
-Many of us (attendees) already have some experience onboarding fellow researchers to join open science. Many attempts may have failed but some surely worked. Collectively, should be enough success stories to identify what works and why, then focus on building a system to replicate those "bright spots" at scale. Two models that we could use for inspiration are rOpenSci and The Carpentries.
+Many of us (attendees) already have some experience on-boarding fellow researchers to join open science. Many attempts may have failed but some surely worked. Collectively, should be enough success stories to identify what works and why, then focus on building a system to replicate those "bright spots" at scale. Two models that we could use for inspiration are rOpenSci and The Carpentries.
 
 ### Tell us about something you have created that you are proud of:
 
@@ -51,7 +51,7 @@ Many of us (attendees) already have some experience onboarding fellow researcher
 
 (100 words)
 
-I'm proud of having built a collection of R packages to help forest ecologists analyze their data (https://forestgeo.github.io/fgeo/; https://cran.r-project.org/web/packages/fgeo/index.html). In less than one year I went from building my first R package to building a scalable package-ecosystem, following best practices in software development with R. Along the way I met and learned from some of the most productive (and friendly) R package developers worldwide, and I was welcome to join multiple organizations aligned with my mission of making data science more open, reproducible and fun.
+I'm proud of having built a collection of R packages to help forest ecologists analyze their data (https://forestgeo.github.io/fgeo/; https://cran.r-project.org/web/packages/fgeo/index.html). In less than one year I went from building my first R package to building a scalable package-ecosystem using best practices in software development with R. Along the way I met and learned from some of the most productive (and friendly) R package developers worldwide, and I was welcome to join multiple organizations aligned with my mission of making data science more open, reproducible and fun.
 
 ### Have you been or are you currently involved with eLife?
 
