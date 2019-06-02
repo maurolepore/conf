@@ -51,8 +51,6 @@ Many of us (attendees) already have some experience onboarding fellow researcher
 
 (100 words)
 
-In science, I'm proud of having articulated how the idea of "bright spots" and paleo-ecological data can help scientists and conservationists better understand and protect ecosystems that remain similar to their natural condition despite human impact (http://bit.ly/mauro-bright-spots). I contributed the main idea and data analysis; I learned to collaborate with co-authors with different experiences and skills. I am proud of having played a critical role en multiple stages from the development of the idea to publication in a high-impact journal.
-
 I'm proud of having built a collection of R packages to help forest ecologists analyze their data (https://forestgeo.github.io/fgeo/; https://cran.r-project.org/web/packages/fgeo/index.html). When I started this project I had little experience building R packages, and no guidance about how to do it. I learned from scratch the best practices in software development with R, I researched a software development model suitable for the large scale of my task, and adapted it to fit me specific needs. Along the way I met and learned from some of the most productive (and friendly) R package developers worldwide, and I was welcome to join multiple organizations alligned with my mission of making data science more open, reproducible and fun.
 
 
