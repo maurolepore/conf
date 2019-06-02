@@ -51,19 +51,13 @@ Many of us (attendees) already have some experience onboarding fellow researcher
 
 (100 words)
 
-I'm proud of having built a collection of R packages to help forest ecologists analyze their data (https://forestgeo.github.io/fgeo/; https://cran.r-project.org/web/packages/fgeo/index.html). When I started this project I had little experience building R packages, and no guidance about how to do it. I learned from scratch the best practices in software development with R, I researched a software development model suitable for the large scale of my task, and adapted it to fit me specific needs. Along the way I met and learned from some of the most productive (and friendly) R package developers worldwide, and I was welcome to join multiple organizations alligned with my mission of making data science more open, reproducible and fun.
-
-
-
-
-
-
+I'm proud of having built a collection of R packages to help forest ecologists analyze their data (https://forestgeo.github.io/fgeo/; https://cran.r-project.org/web/packages/fgeo/index.html). In less than one year I went from building my first R package to building a scalable package-ecosystem, following best practices in software development with R. Along the way I met and learned from some of the most productive (and friendly) R package developers worldwide, and I was welcome to join multiple organizations aligned with my mission of making data science more open, reproducible and fun.
 
 ### Have you been or are you currently involved with eLife?
 
 > Please list any associations with eLife, such as being a participant at last year's Sprint, an eLife Ambassador or ECAG member, involvement in a project or initiative supported by eLife, or having worked directly with us before. We may take this into account when selecting between highly rated applications; other factors are of higher priority.
 
-
+No.
 
 ---
 
