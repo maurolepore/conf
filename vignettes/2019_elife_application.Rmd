@@ -19,13 +19,9 @@ https://sprint.elifesciences.org/
 
 At the Innovation Sprint, I would like create a minimal kit of learning resources and tools for researchers to more easily build the skills and infrastructure they need to contribute to open science.
 
-(100 words)
-
 ### Your skills and experience. 
 
 > Please specify other skills of relevance that you would share at the event, or add detail to explain any of the skills listed above, such as specifying programming languages, technical skills, area of research, and listing years of experience. Include any relevant links, such as your website and/or Twitter, Github and/or LinkedIn pages.
-
-(200 words)
 
 I am an ecologist turned software developer and data science trainer and consultant (https://www.linkedin.com/in/mauro-lepore/). My mission is to help scientists work openly and collaboratively. 
 
@@ -39,8 +35,6 @@ I regularly contribute to open software and reproducible research (https://mauro
 
 > Please tell us briefly what you hope to gain from participating in the event.
 
-(100 words)
-
 I am interested in participating in the Innovation Sprint because with the help of other motivated attendees we could build a scalable system for on-boarding researchers into data science.
 
 Many of us (attendees) already have some experience on-boarding fellow researchers who want to work in a more open, collaborative, and reproducible way. Many attempts may have failed but some surely worked. Collectively, we should have enough success stories to identify what works and why, then focus on building a system to replicate those "bright spots" at scale. Two models that we could use for inspiration are rOpenSci and The Carpentries.
@@ -48,8 +42,6 @@ Many of us (attendees) already have some experience on-boarding fellow researche
 ### Tell us about something you have created that you are proud of:
 
 > Please share the story of an idea you have prototyped or brought to fruition before, what you contributed and learned, and why you are proud of this. The idea does not need to relate to the scope of this event, but we are particularly interested in contributions to any open (source or science) projects!
-
-(100 words)
 
 In less than two years I went from building my first R package to building a package-ecosystem for a global network of forest ecologists (https://forestgeo.github.io/fgeo/). Along the way, I met some of the most productive and friendly R developers worldwide, and joined multiple meetups and organizations supporting open science. Inspired, I learned the best practices in software development with R. I am proud that I am now able to give back to the open software/data community by teaching others what I now know.
 
@@ -83,11 +75,4 @@ The system may include:
 Useful technologies and learning resources are already available, but they are so many, scattered, and full of jargon that most researchers end up frustrated and paralyzed. 
 
 As a data science instructor, developer and consultant, time and again I have seen researchers give up during the steep initial learning curve, before they experience the payoff. It is not them who fail; the failure is of the system that filters who joins the open science club. A lot of people want to join but the club is too exclusive. Let's make open science a popular club. Can we make open science the path of least resistance and the most fun?
-
---
-
-
-https://maurolepore.github.io/
-
-https://maurolepore.github.io/confs/
 
