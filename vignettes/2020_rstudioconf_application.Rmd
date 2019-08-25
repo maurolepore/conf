@@ -13,6 +13,10 @@ knitr::opts_chunk$set(
 
 ## Learning objective (300 characters)
 
+I'll show examples to illustrate the principles and tools that helped me build a research-centric collection of R packages for two non-profit organizations.
+
+I'll share the (technical, financial, and social) challenges that -- I suspect -- limit the progress of people like me and organizations like the ones support.
+
 ...............................................................................
 ...............................................................................
 ...............................................................................
