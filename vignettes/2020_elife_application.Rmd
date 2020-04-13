@@ -1,0 +1,118 @@
+# eLife Innovation Sprint 2020 Project Proposal Submission Form
+
+## Introduction
+
+> Please use this form to submit your project idea for the eLife Innovation Sprint 2020, until April 13. After this form is completed, all submitters for this proposal will receive an email with a link to a second form that each submitter must fill in for the project proposal to be accepted for review.
+
+> Please visit our website to find out more about the project proposal submission process and how we will evaluate proposals.
+
+> Bullet points are accepted in the text answers below.
+
+
+
+### Submitters
+
+> Up to 3 people can submit this proposal together. If one or more of you cannot attend the Sprint, and new contributors cannot be recruited, you and your team may need to contribute to another project.
+
+> If you are submitting on your own, we may connect you with another submitter who would like to work on a similar project idea.
+
+> All submitters will receive an email with a link to a second form which each submitter has to complete individually.
+
+Submitter 1
+
+* First Name: Mauro 
+* Last Name: Lepore
+* Email: <maurolepore@gmail.com>
+
+Submitter 2
+
+* First Name: CJ
+* Last Name: Yetman
+* Email: <cj@2degrees-investing.org>
+
+Submitter 3
+
+* First Name: 
+* Last Name:
+* Email: 
+
+
+
+### Openness and transparency
+
+> We expect Sprint participants to work openly and make any resulting outputs openly available immediately or as soon as is feasible, using open-source licenses for code and software and permissive licenses (CC-BY or CC-0) for other content. If selected, do you agree to meet this expectation as a participant?
+
+
+
+### The Problem
+
+> In no more than 200 words, please tell us about the problem you plan to address through your work at the Sprint: how does it relate to the Sprint’s themes, who this issue is affecting, and why is it an important issue to solve at the moment?
+
+People in research groups often specialize in either research, data management, or software development, and struggle to understand the goals and workflows of those with complementary skills. Research groups miss the opportunity to learn from each other and work more effectively.
+
+
+
+### Theme
+
+> Which of the following theme(s) does your project address? Please check all that apply.
+
+* [x]  Support reproducibility in research
+* [ ]  Reform research evaluation practices
+* [ ]  Promote diversity and inclusion in research
+* [ ]  Improve publishing practices, e.g. preprints, equitable access and discovery.
+* [x]  Facilitate research collaborations
+* [x]  Create a healthy research environment, e.g. mentoring, mental health
+* [ ]  Encourage transparent and constructive peer review
+
+
+
+### The Solution
+
+> In no more than 200 words, tell us more about your idea for a technology-focussed solution to the problem you described above. Please feel free to include any relevant links (GitHub, Twitter, etc), but please prioritise them so reviewers can focus on the important ones within their time limit.
+
+At the Innovation Sprint, we would build an online platform to facilitate the flow of knowledge between researchers, data-managers, and software developers working together in research groups. The platform would provide resources and tools that reserach groups could use to implement practices analog to DevOps, an idea we may call ResearchOps (De Bayser, Maximilien & Azevedo, Leonardo & Cerqueira, Renato. (2015). ResearchOps: The case for DevOps in scientific applications. Proceedings of the 2015 IFIP/IEEE International Symposium on Integrated Network Management, IM 2015. 1398-1404. 10.1109/INM.2015.7140503.)
+
+This idea grows from a pilot project we called the "data-science incubator" (<https://2degreesinvesting.github.io/ds-incubator/>). In one think tank we run 24 meetups to share knowledge among researchers, data managers and software developers. We observed more fluent research collaborations, software that is more reproducible, and a healthier working environment. We are now inspired to extend out idea and build a platform around it.
+
+
+
+### Proposed work at the Sprint
+
+> In no more than 200 words, describe the work that you plan to carry out at the Sprint: what do you envision achieving within the two days of the event, and how can the Sprint help drive it forward?
+
+We plan to:
+
+1. Interview eLife staff and sprint participants to identify which DevOps practices, resources and tools we should include in a prototype of our ResearchOps platform.
+
+2. Prototype the front end of the ResearchOps platform.
+
+
+
+### The Contributors
+
+> In no more than 100 words, please tell us what skills are you looking for from contributors at the Sprint, e.g. software development, UX, cloud infrastructure, design, communication, users with the domain expertise to test with. (Find out more about the expected participants and roles at the Sprint).
+
+We are looking for kind people with experience in one or more of the following:
+
+* DevOps.
+* Research in the role of researcher, data manager, or software developer.
+* Design thinking / prototyping.
+* Front end design.
+
+
+
+### Facilitating participation and contribution
+
+> In no more than 200 words, please explain your plans to facilitate contributions from Sprint participants: How do you plan to engage with and incorporate the voices of Sprint participants with diverse backgrounds, experiences and skill sets? What should contributors get from working on the project?
+
+We plan to interview folks from diverse backgrounds and experience as researchers, data managers, or software developers. The sprint attendees will likely vary in country of origin, first language, personality, gender, seniority, and many other aspects of diversity.
+
+From working in this project contributors should get:
+
+* A joyful work-experience;
+* An expanded network of like-minded people;
+* Ideas on which DevOps practices could benefit research groups.
+* Experience building some aspect of the ResearchOps platform.
+
+
+
