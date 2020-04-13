@@ -1,4 +1,17 @@
+---
+title: "2020, eLife sprint 2020: Application"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
 # eLife Innovation Sprint 2020 Project Proposal Submission Form
+
+Submit a proposal at: <https://sprint.elifesciences.org/join/#projects?utm_source=sprint20-interest&utm_medium=email&utm_campaign=Sprint20>
 
 ## Introduction
 
